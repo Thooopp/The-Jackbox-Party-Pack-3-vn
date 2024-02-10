@@ -1,0 +1,82 @@
+{
+    "rows": 7,
+    "cols": 1,
+    "cellWidth": 682,
+    "cellHeight": 51,
+    "clip": "TDSettingsWidget",
+    "items": [
+        {
+            "title": "Âm lượng",
+            "type": "Range",
+            "clip": "TDSliderWidget",
+            "width": 1,
+            "source": "Volume",
+            "step": 0.1,
+            "description": "Làm cho âm lượng trò chơi TO hoặc NHỎ."
+        },
+        {
+            "title": "Chế độ toàn màn hình",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "FullScreen",
+            "description": "Chuyển đổi giữa chế độ cửa sổ và toàn màn hình."
+        },
+        {
+            "title": "Khán giả",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "AudienceOn",
+            "description": "Khán giả BẬT có nghĩa là những người không phải là người chơi có thể tham gia và tác động đến trò chơi."
+        },
+        {
+            "title": "Bộ hẹn giờ lâu hơn",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "ExtendedTimers",
+            "description": "Bộ hẹn giờ lâu hơn sẽ cho bạn nhiều thời gian hơn để đưa ra quyết định."
+        },
+        {
+            "title": "Yêu cầu Twitch",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "RequireTwitch",
+            "description": "Yêu cầu người chơi phải đăng nhập vào Twitch."
+        },
+        {
+            "title": "Bỏ qua hướng dẫn",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "SkipTutorial",
+            "description": "Bỏ qua phần hướng dẫn"
+        },
+        {
+            "title": "Không chế độ viết và vẽ",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "DisableUserEntryKillingFloors",
+            "description": "Không tin tưởng vào người chơi của bạn? Chế độ này vô hiệu hóa tầng giết chóc Câu Trả Lời Tệ Nhất và Bức Vẽ Tệ Nhất."
+        },
+        {
+            "title": "Bắt đầu trò chơi bằng điều khiển",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "GamepadStart",
+            "description": "Trò chơi phải được bắt đầu bằng điều khiển, không phải từ thiết bị của người chơi."
+        },
+        {
+            "title": "Cho phép che mã phòng",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "HideRoomCode",
+            "description": "Cho phép che mã phòng trên màn hình."
+        }
+    ]
+}
