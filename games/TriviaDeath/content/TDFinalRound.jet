@@ -4852,106 +4852,106 @@
         {
             "x": false,
             "id": 35985,
-            "text": "Hình ảnh ở mặt sau tờ tiền",
+            "text": "Người chủ trì lễ trao giải Oscar",
             "choices": [
                 {
                     "correct": true,
-                    "text": "Cảnh sản xuất nông nghiệp",
+                    "text": "Bob Hope",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Cảng Hải Phòng",
+                    "text": "Billy Crystal",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Cảnh khai thác gỗ",
+                    "text": "Johnny Carson",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Nhà máy Sợi Nam Định",
+                    "text": "Whoopi Goldberg",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Thủy điện Trị An",
+                    "text": "Jon Stewart",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Mỏ dầu Bạch Hổ",
+                    "text": "Jack Lemmon",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Chùa Cầu",
+                    "text": "Chris Rock",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Nghênh Lương Đình",
+                    "text": "Steve Martin",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Văn Miếu-Quốc Tử Giám",
+                    "text": "Frank Sinatra",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Hòn Đỉnh Hương",
+                    "text": "Ellen DeGeneres",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Nhà Chủ tịch Hồ Chí Minh ở Kim Liên",
+                    "text": "Neil Patrick Harris",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Chùa Một Cột",
+                    "text": "Drew Barrymore",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Thủy điện Hòa Bình",
+                    "text": "Conan O\u2019Brien",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Hồ Ba Bể",
+                    "text": "Rosie O\u2019Donnell",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Bến Nhà Rồng",
+                    "text": "Oprah Winfrey",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Chùa Bái Đính",
+                    "text": "Joan Rivers",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Cảnh cày ruộng",
+                    "text": "Kelly Ripa",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Cảnh công nhân mỏ than Quảng Ninh",
+                    "text": "Jim Carrey",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Làng gốm Bát Tràng",
+                    "text": "Vanna White",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Cầu Thăng Long",
+                    "text": "Steve Carell",
                     "easy": false
                 }
             ]
@@ -5302,7 +5302,7 @@
         {
             "x": false,
             "id": 35973,
-            "text": "Phiên Bản <i>Call of Duty<\/i>",
+            "text": "Phiên bản <i>Call of Duty<\/i>",
             "choices": [
                 {
                     "correct": true,
@@ -5553,7 +5553,7 @@
         {
             "x": false,
             "id": 35968,
-            "text": "Hoang Mạc Và Sa Mạc Ở Châu Phi",
+            "text": "Hoang mạc và sa mạc ở châu Phi",
             "choices": [
                 {
                     "correct": true,
@@ -5640,7 +5640,7 @@
         {
             "x": false,
             "id": 35966,
-            "text": "Vị Thần Ai Cập",
+            "text": "Vị thần Ai Cập",
             "choices": [
                 {
                     "correct": true,
@@ -5687,7 +5687,7 @@
         {
             "x": false,
             "id": 35961,
-            "text": "Hành Tinh Và Mặt Trăng Trong <i>Chiến Tranh Giữa Các Vì Sao<\/i>",
+            "text": "Hành tinh và mặt trăng trong <i>Chiến tranh giữa các vì sao<\/i>",
             "choices": [
                 {
                     "correct": true,
@@ -6107,7 +6107,7 @@
         {
             "x": false,
             "id": 35949,
-            "text": "Giải Oscar cho Ca Khúc Gốc Trong Phim Xuất Sắc Nhất",
+            "text": "Giải Oscar cho ca khúc gốc trong phim xuất sắc nhất",
             "choices": [
                 {
                     "correct": true,
@@ -7758,7 +7758,7 @@
         {
             "x": false,
             "id": 35844,
-            "text": "Xe hơi do Kia sản xuất",
+            "text": "Dòng xe Kia",
             "choices": [
                 {
                     "correct": true,
@@ -9684,76 +9684,76 @@
         {
             "x": false,
             "id": 35724,
-            "text": "Số La Mã",
+            "text": "Chồng cũ của Elizabeth Taylor",
             "choices": [
                 {
                     "correct": true,
-                    "text": "I",
+                    "text": "Larry Fortensky",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "V",
+                    "text": "John Warner",
                     "easy": false 
                 },
                 {
                     "correct": true,
-                    "text": "X",
+                    "text": "Richard Burton",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "L",
+                    "text": "Eddie Fisher",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "C",
+                    "text": "Mike Todd",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "D",
+                    "text": "Michael Wilding",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "M",
+                    "text": "Conrad Hilton Jr.",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "U",
+                    "text": "James Dougherty",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "N",
+                    "text": "Joe DiMaggio",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "T",
+                    "text": "Arthur Miller",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "W",
+                    "text": "Mickey Rooney",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "H",
+                    "text": "James Dean",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Z",
+                    "text": "Elvis Presley",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "B",
+                    "text": "Frank Sinatra",
                     "easy": false
                 }
             ]
@@ -13330,7 +13330,7 @@
         {
             "x": false,
             "id": 35401,
-            "text": "Thần Hy Lạp",
+            "text": "Vị thần Hy Lạp",
             "choices": [
                 {
                     "correct": true,

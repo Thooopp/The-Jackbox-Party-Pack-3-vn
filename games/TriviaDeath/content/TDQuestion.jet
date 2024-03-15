@@ -382,21 +382,21 @@
         {
             "x": false,
             "id": 40967,
-            "text": "Loại bánh kẹo nào KHÔNG có đậu phộng?",
+            "text": "Loại bánh kẹo nào sau đây có đậu phộng?",
             "pic": false,
             "choices": [
                 {
-                    "text": "kẹo gương"
+                    "text": "Kinder Bueno"
                 },
                 {
-                    "text": "bánh chè lam"
+                    "text": "Toblerone"
                 },
                 {
-                    "text": "kẹo sìu châu"
+                    "text": "Ferrero Rocher"
                 },
                 {
                     "correct": true,
-                    "text": "bánh tro"
+                    "text": "Snickers"
                 }
             ]
         },
@@ -536,7 +536,7 @@
                     "text": "đường"
                 },
                 {
-                    "text": "kẹo bonbon"
+                    "text": "tan"
                 },
                 {
                     "text": "ngậm"
@@ -760,7 +760,7 @@
         {
             "x": false,
             "id": 39063,
-            "text": "Màu mắt của Adam Levine là gì?",
+            "text": "Mắt của Adam Levine có màu gì?",
             "pic": false,
             "choices": [
                 {
@@ -1075,21 +1075,21 @@
         {
             "x": false,
             "id": 39019,
-            "text": "Một bộ bài <i>Uno<\/i>  cơ bản có bao nhiêu lá?",
+            "text": "Kích thước của pizza cỡ vừa của Pizza Hut là bao nhiêu?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "108"
+                    "text": "23 cm"
                 },
                 {
-                    "text": "118"
+                    "text": "28 cm"
                 },
                 {
-                    "text": "128"
+                    "text": "33 cm"
                 },
                 {
-                    "text": "138"
+                    "text": "38 cm"
                 }
             ]
         },    
@@ -1195,6 +1195,27 @@
                 },
                 {
                     "text": "Reese's"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 39000,
+            "text": "Furby đang nói gì khi nó nói \u201cWee-tah-kah-wee-loo\u201d?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "\u201cĐi ngủ ngay\u201d"
+                },
+                {
+                    "text": "\u201cHát cho tôi mội bài\u201d"
+                },
+                {
+                    "correct": true,
+                    "text": "\u201cKể cho tôi một câu chuyện\u201d"
+                },
+                {
+                    "text": "\u201cHãy cúi đầu trước ta\u201d"
                 }
             ]
         },
@@ -1494,6 +1515,27 @@
         },
         {
             "x": false,
+            "id": 38936,
+            "text": "Vở kịch nào lấy bối cảnh ở Grover\u2019s Corner?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "<i>The Music Man<\/i>"
+                },
+                {
+                    "correct": true,
+                    "text": "<i>Our Town<\/i>"
+                },
+                {
+                    "text": "<i>Inherit the Wind<\/i>"
+                },
+                {
+                    "text": "<i>Death of a Salesman<\/i>"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 38926,
             "text": "Giả sử ngươi vẫn còn sống, vào năm nào ngươi sẽ nhìn thấy sao chổi Halley tiếp theo?",
             "pic": false,
@@ -1594,6 +1636,27 @@
                 },
                 {
                     "text": "12"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 38910,
+            "text": "Vị vua nào là Quỷ vương?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "Lê Long Đĩnh"
+                },
+                {
+                    "text": "Lê Chiếu Thống"
+                },
+                {
+                    "text": "Lê Tương Dực"
+                },
+                {
+                    "correct": true,
+                    "text": "Lê Uy Mục"
                 }
             ]
         },
@@ -1978,21 +2041,21 @@
         {
             "x": false,
             "id": 38828,
-            "text": "Chàng lính ngự lâm nào TRẺ NHẤT?",
+            "text": "Anh em nhà Marx nào TRẺ NHẤT?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "D'Artagnan"
+                    "text": "Zeppo"
                 },
                 {
-                    "text": "Athos"
+                    "text": "Groucho"
                 },
                 {
-                    "text": "Porthos"
+                    "text": "Harpo"
                 },
                 {
-                    "text": "Aramis"
+                    "text": "Chico"
                 }
             ]
         },
@@ -2083,7 +2146,7 @@
         {
             "x": false,
             "id": 38812,
-            "text": "Màu mắt của Glenn Close là gì?",
+            "text": "Mắt của Glenn Close có màu gì?",
             "pic": false,
             "choices": [
                 {
@@ -2125,21 +2188,21 @@
         {
             "x": false,
             "id": 38810,
-            "text": "Brutalism là một chủ nghĩa trong lĩnh vực nào?",
+            "text": "Edgar Degas được biết đến với những bức tranh về gì?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "kiến trúc"
+                    "text": "vũ công"
                 },
                 {
-                    "text": "hội họa"
+                    "text": "tòa nhà chọc trời"
                 },
                 {
-                    "text": "văn học"
+                    "text": "hồng hạc"
                 },
                 {
-                    "text": "triết học"
+                    "text": "hoa súng"
                 }
             ]
         },
@@ -3952,7 +4015,7 @@
         {
             "x": false,
             "id": 38268,
-            "text": "Tên trại đối thủ của Bill Murray tham gia cuộc thi Olympiad hằng năm trong phim <i>Meatballs<\/i>  là gì?",
+            "text": "Tên của trại đối thủ của Bill Murray tham gia cuộc thi Olympiad hằng năm trong phim <i>Meatballs<\/i>  là gì?",
             "pic": false,
             "choices": [
                 {
@@ -4002,7 +4065,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "Snickers"
+                    "text": "Bounty"
                 },
                 {
                     "text": "Oreo"
@@ -4618,6 +4681,48 @@
                 },
                 {
                     "text": "\u201cKhông một ai\u201d"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 38233,
+            "text": "Đâu là một dòng xe hơi của Toyota?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "Civic"
+                },
+                {
+                    "correct": true,
+                    "text": "Highlander"
+                },
+                {
+                    "text": "Mustang"
+                },
+                {
+                    "text": "Accord"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 38231,
+            "text": "Đâu KHÔNG là một trong ba chú gián trong <i>Oggy và những chú gián tinh nghịch<\/i> ?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "Marky"
+                },
+                {
+                    "text": "Joey"
+                },
+                {
+                    "correct": true,
+                    "text": "Henry"
+                },
+                {
+                    "text": "Dee Dee"
                 }
             ]
         },
@@ -6660,6 +6765,27 @@
         },
         {
             "x": false,
+            "id": 37842,
+            "text": "Trong truyện cổ tích \u201cChú lính chì dũng cảm\u201d, chú lính chì yêu ai?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "cô vũ công bằng gỗ"
+                },
+                {
+                    "correct": true,
+                    "text": "cô vũ công bằng giấy"
+                },
+                {
+                    "text": "cô vũ công bằng chì"
+                },
+                {
+                    "text": "cô vũ công bằng đồng"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 37836,
             "text": "Kỵ sĩ đầu tiên xuống Trái Đất trong Tứ kỵ sĩ Khải Huyền biểu tượng điều gì?",
             "pic": false,
@@ -6959,17 +7085,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Quái vật không gian<\/i>"
+                    "text": "<i>Alien<\/i>"
                 },
                 {
-                    "text": "<i>Cảnh sát người máy<\/i>"
+                    "text": "<i>Robocop<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Công viên kỷ Jura<\/i>"
+                    "text": "<i>Jurassic Park<\/i>"
                 },
                 {
-                    "text": "<i>Kẻ hủy diệt<\/i>"
+                    "text": "<i>Terminator<\/i>"
                 }
             ]
         },
@@ -7354,21 +7480,21 @@
         {
             "x": false,
             "id": 37531,
-            "text": "Công ty nào sản xuất Oreo ở Việt Nam?",
+            "text": "Thương hiệu bánh kẹo nào được đặt theo tên của con ngựa yêu thích của gia đình?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Kinh Đô"
+                    "text": "Snickers"
                 },
                 {
-                    "text": "Orion"
+                    "text": "Bounty"
                 },
                 {
-                    "text": "Oishi"
+                    "text": "Toblerone"
                 },
                 {
-                    "text": "Lotte"
+                    "text": "Tim Tam"
                 }
             ]
         },
@@ -7921,18 +8047,18 @@
         {
             "x": true,
             "id": 37462,
-            "text": "Bobby Leach, người sống sót sau khi rơi xuống thác Niagra, đã chết sau khi...",
+            "text": "Nhà triết học Chrysippus đã chết vì...",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "trượt vỏ cam"
+                    "text": "cười"
                 },
                 {
-                    "text": "ngã khỏi giường"
+                    "text": "chảy máu mũi"
                 },
                 {
-                    "text": "hắt xì"
+                    "text": "rùa rơi xuống đầu"
                 },
                 {
                     "text": "quan hệ tình dục"
@@ -8005,7 +8131,7 @@
         {
             "x": false,
             "id": 37456,
-            "text": "Bác sĩ nào tìm ra cách hồi sinh người chết trong <i>Re-animator<\/i>  của H.P. Lovecraft?",
+            "text": "Bác sĩ nào tìm ra cách hồi sinh người chết trong <i>Re-animator<\/i> ?",
             "pic": false,
             "choices": [
                 {
@@ -8446,7 +8572,7 @@
         {
             "x": false,
             "id": 37374,
-            "text": "\u201cHạt\u201d nào thực sự là một hạt giống?",
+            "text": "\u201cHạt\u201d nào thực ra là hạt giống?",
             "pic": false,
             "choices": [
                 {
@@ -8824,21 +8950,21 @@
         {
             "x": false,
             "id": 37270,
-            "text": "Nếu ta gọi món \u201cPhở không người lái\u201d thì nhân viên phục vụ sẽ đem gì lên bàn của tôi?",
+            "text": "Hạt có chứa nhiều calo nhất?",
             "pic": false,
             "choices": [
                 {
-                    "text": "phở không gia vị"
+                    "text": "hạt óc chó"
                 },
                 {
                     "correct": true,
-                    "text": "phở không thịt"
+                    "text": "hạt mác ca"
                 },
                 {
-                    "text": "phở không nước dùng"
+                    "text": "hạt phỉ"
                 },
                 {
-                    "text": "phở không hành"
+                    "text": "hạt dẻ cười"
                 }
             ]
         },
@@ -8860,6 +8986,27 @@
                 },
                 {
                     "text": "Pocahontas"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 37266,
+            "text": "Bài hát nào của Britney Spears đoạt giải Grammy?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "\u201cLonely\u201d"
+                },
+                {
+                    "correct": true,
+                    "text": "\u201cToxic\u201d"
+                },
+                {
+                    "text": "\u201cOops!\u2026 I Did It Again\u201d"
+                },
+                {
+                    "text": "\u201c\u2026Baby One More Time\u201d"
                 }
             ]
         },
@@ -11448,6 +11595,27 @@
         },
         {
             "x": false,
+            "id": 33708,
+            "text": "Nếu ngươi gọi Ahi roll ở nhà hàng sushi, ngươi sẽ ăn gì?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "tôm"
+                },
+                {
+                    "correct": true,
+                    "text": "cá ngừ"
+                },
+                {
+                    "text": "cá hồng"
+                },
+                {
+                    "text": "cá hồi"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 33696,
             "text": "Đường sắt xuyên Siberia nối Moscow với thành phố Nga nào khác?",
             "pic": false,
@@ -12394,7 +12562,7 @@
         {
             "x": false,
             "id": 33102,
-            "text": "Doc Holliday là bác sĩ nào?",
+            "text": "Doc Holliday là bác sĩ gì?",
             "pic": false,
             "choices": [
                 {
@@ -12499,7 +12667,7 @@
         {
             "x": false,
             "id": 33015,
-            "text": "Ai là người chào hàng trong <i>Cái chết của người chào hàng<\/i> ?",
+            "text": "Ai là người chào hàng trong <i>Death of a Salesman<\/i> ?",
             "pic": false,
             "choices": [
                 {
@@ -13360,21 +13528,21 @@
         {
             "x": false,
             "id": 32863,
-            "text": "Kịch bản cuối cùng của <i>Gặp nhau cuối tuần<\/i>  trên VTV lấy hình ảnh từ...",
+            "text": "Câu lạc bộ bóng đá nào từng được dưới sự quản lý của huyền thoại Elton John?",
             "pic": false,
             "choices": [
                 {
-                    "text": "thảm họa Hindenburg"
+                    "text": "Leeds United"
                 },
                 {
                     "correct": true,
-                    "text": "vụ chìm tàu Titanic"
+                    "text": "Watford"
                 },
                 {
-                    "text": "thảm họa Chernobyl"
+                    "text": "Leicester City"
                 },
                 {
-                    "text": "vụ án Lệ Chi Viên"
+                    "text": "Bournemouth"
                 }
             ]
         },
@@ -14388,6 +14556,27 @@
         },
         {
             "x": false,
+            "id": 32729,
+            "text": "Vở nhạc kịch nào kể về mối tình tay ba giữa Curly, Laurey và Jud?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "<i>The King and I<\/i>"
+                },
+                {
+                    "text": "<i>South Pacific<\/i>"
+                },
+                {
+                    "correct": true,
+                    "text": "<i>Oklahoma!<\/i>"
+                },
+                {
+                    "text": "<i>The Music Man<\/i>"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 32727,
             "text": "Tượng Nhân sư lớn có đầu người và thân con gì?",
             "pic": false,
@@ -14431,21 +14620,21 @@
         {
             "x": false,
             "id": 32724,
-            "text": "<i>Action Comics<\/i>  được biết đến với sự ra mắt của nhân vật nào?",
+            "text": "<i>Chuyện tình Lan và Điệp<\/i>  được được dựa trên tác phẩm nào?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Superman"
+                    "text": "<i>Tắt lửa lòng<\/i>"
                 },
                 {
-                    "text": "Spider-Man"
+                    "text": "<i>Tấm lòng vàng<\/i>"
                 },
                 {
-                    "text": "Batman"
+                    "text": "<i>Lá ngọc cành vàng<\/i>"
                 },
                 {
-                    "text": "Iron Man"
+                    "text": "<i>Ngày xưa có một chuyện tình<\/i>"
                 }
             ]
         },
@@ -14473,7 +14662,7 @@
         {
             "x": false,
             "id": 32720,
-            "text": "Tôi sẽ tìm thấy Giao lộ Piccadilly ở thành phố nào?",
+            "text": "Ta sẽ tìm thấy Giao lộ Piccadilly ở thành phố nào?",
             "pic": false,
             "choices": [
                 {
@@ -14913,6 +15102,27 @@
         },
         {
             "x": false,
+            "id": 32668,
+            "text": "Cửa hàng Jollibee đầu tiên mở cửa thành phố nào?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "Manila"
+                },
+                {
+                    "text": "Pasig"
+                },
+                {
+                    "correct": true,
+                    "text": "Quezon"
+                },
+                {
+                    "text": "Valenzuela"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 32666,
             "text": "Kim loại nào sau đây không phải là một nguyên tố?",
             "pic": false,
@@ -15123,6 +15333,48 @@
         },
         {
             "x": false,
+            "id": 32639,
+            "text": "Chuỗi nhà hàng nào đã tăng doanh thu lên 33% sau khi được nhắc đến trong bài hát \u201cFormation\u201d của Beyoncé?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "TGI Fridays"
+                },
+                {
+                    "text": "Outback Steakhouse"
+                },
+                {
+                    "text": "Applebee\u2019s"
+                },
+                {
+                    "correct": true,
+                    "text": "Red Lobster"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 32638,
+            "text": "Upton Sinclair đã vạch trần ngành nào trong <i>The Jungle<\/i> ?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "thuốc lá"
+                },
+                {
+                    "text": "bảo hiểm"
+                },
+                {
+                    "text": "ngân hàng"
+                },
+                {
+                    "correct": true,
+                    "text": "thịt"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 32637,
             "text": "Ken Jennings đã thắng bao nhiêu trận liên tiếp trong <i>Jeopardy!<\/i>  vào năm 2004?",
             "pic": false,
@@ -15187,21 +15439,21 @@
         {
             "x": false,
             "id": 32630,
-            "text": "Bác Ba Phi sống ở đâu?",
+            "text": "Nhà Arryn cai trị nơi nào?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Rừng U Minh"
+                    "text": "Vale"
                 },
                 {
-                    "text": "Rừng Cát Tiên"
+                    "text": "Reach"
                 },
                 {
-                    "text": "Rừng tràm Trà Sư"
+                    "text": "Stormlands"
                 },
                 {
-                    "text": "Rừng Cúc Phương"
+                    "text": "Riverlands"
                 }
             ]
         },
@@ -15354,6 +15606,27 @@
         },
         {
             "x": false,
+            "id": 32618,
+            "text": "Lươn là gì?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "động vật có vú"
+                },
+                {
+                    "text": "động vật lưỡng cư"
+                },
+                {
+                    "text": "một loài rắn"
+                },
+                {
+                    "correct": true,
+                    "text": "một loài cá"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 32617,
             "text": "Chú hề kinh dị trong <i>Hamlet<\/i>  là ai?",
             "pic": false,
@@ -15460,21 +15733,21 @@
         {
             "x": false,
             "id": 32609,
-            "text": "Freddy Krueger giết trẻ em ở đâu?",
+            "text": "Mr. Bean sống ở đâu?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Phố Baker"
+                    "text": "Đường Portobello"
                 },
                 {
-                    "text": "Phố Downing"
+                    "text": "Phố Fournier"
                 },
                 {
                     "correct": true,
-                    "text": "Phố Elm"
+                    "text": "Đường Arbour"
                 },
                 {
-                    "text": "Phố Fleet"
+                    "text": "Phố Downing"
                 }
             ]
         },
@@ -15565,7 +15838,7 @@
         {
             "x": false,
             "id": 32601,
-            "text": "Tên của công chúa trong phim <i>Công chúa và chàng ếch<\/i>  của Disney là gì?",
+            "text": "Tên của cô công chúa trong phim <i>Công chúa và chàng ếch<\/i>  của Disney là gì?",
             "pic": false,
             "choices": [
                 {
@@ -15580,6 +15853,27 @@
                 },
                 {
                     "text": "Aurora"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 32600,
+            "text": "Ai chơi trống trong ban nhạc Quái Vật Tí Hon?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "Long"
+                },
+                {
+                    "text": "Hải"
+                },
+                {
+                    "text": "Anh"
+                },
+                {
+                    "correct": true,
+                    "text": "Minh"
                 }
             ]
         },
@@ -16131,6 +16425,27 @@
         },
         {
             "x": false,
+            "id": 32549,
+            "text": "Lời thoại cuối cùng trong <i>Home Alone<\/i>  đầu tiên là gì?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "\u201cKevin, con bị cấm túc trong 1 tuần.\u201d"
+                },
+                {
+                    "correct": true,
+                    "text": "\u201cKevin, mày đã làm gì trong phòng của tao.\u201d"
+                },
+                {
+                    "text": "\u201cVà mọi chuyện là như vậy đấy.\u201d"
+                },
+                {
+                    "text": "\u201cChúc ngủ ngon, Kevin.\u201d"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 32547,
             "text": "Ta đã chạy 8km vào cuối tuần này. Đó là khoảng bao nhiêu dặm?",
             "pic": false,
@@ -16509,6 +16824,27 @@
         },
         {
             "x": false,
+            "id": 32497,
+            "text": "Madonna đóng vai nhân vật nào trong <i>A League of Their Own<\/i> ?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "Dottie Hinson"
+                },
+                {
+                    "text": "Evelyn Gardner"
+                },
+                {
+                    "text": "Helen Haley"
+                },
+                {
+                    "correct": true,
+                    "text": "Mae Mordabito"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 32495,
             "text": "Antonio Salieri là đối thủ của nhà soạn nhạc cổ điển nào?",
             "pic": false,
@@ -16567,6 +16903,27 @@
                 },
                 {
                     "text": "gấu"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 32491,
+            "text": "Arthur Baldwin Turnure thành lập tạp chí nào?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "<i>People<\/i>"
+                },
+                {
+                    "text": "<i>Time<\/i>"
+                },
+                {
+                    "text": "<i>Elle<\/i>"
+                },
+                {
+                    "correct": true,
+                    "text": "<i>Vogue<\/i>"
                 }
             ]
         },
@@ -16636,7 +16993,7 @@
         {
             "x": false,
             "id": 32483,
-            "text": "Ở khoảng nhiệt độ nào thép bắt đầu nóng chảy?",
+            "text": "Thép bắt đầu nóng chảy ở khoảng nhiệt độ nào?",
             "pic": false,
             "choices": [
                 {
@@ -16714,6 +17071,27 @@
                 {
                     "correct": true,
                     "text": "\u201cFun times are fun\u201d"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 32473,
+            "text": "Nhóm nhạc nào có bài hát ra mắt là \u201cInto The New World\u201d?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "Super Junior"
+                },
+                {
+                    "text": "BTS"
+                },
+                {
+                    "text": "Red Velvet"
+                },
+                {
+                    "correct": true,
+                    "text": "Girls\u2019 Generation"
                 }
             ]
         },
@@ -16825,7 +17203,7 @@
         {
             "x": false,
             "id": 32460,
-            "text": "Nơi nổi tiếng nào sau đây thực sự là một ngôi mộ khổng lồ?",
+            "text": "Nơi nổi tiếng nào sau đây thật ra là một ngôi mộ khổng lồ?",
             "pic": false,
             "choices": [
                 {
@@ -16840,6 +17218,27 @@
                 },
                 {
                     "text": "Đấu trường La Mã"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 32458,
+            "text": "Sê-ri <i>Law and Order<\/i>  nào có Ice T trong dàn diễn viên chính?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "<i>Criminal Intent<\/i>"
+                },
+                {
+                    "text": "<i>Trial By Jury<\/i>"
+                },
+                {
+                    "correct": true,
+                    "text": "<i>SVU<\/i>"
+                },
+                {
+                    "text": "<i>Law & Order<\/i>  thường"
                 }
             ]
         },
@@ -16888,7 +17287,7 @@
         {
             "x": false,
             "id": 32455,
-            "text": "Tên thanh kiếm của Bilbo Baggins là gì?",
+            "text": "Thanh kiếm của Bilbo Baggins có tên là gì?",
             "pic": false,
             "choices": [
                 {
@@ -16924,6 +17323,27 @@
                 {
                     "correct": true,
                     "text": "Ruben Studdard"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 32452,
+            "text": "Địa điểm tổ chức của mùa đầu tiên của <i>Survivor<\/i>  ở đâu?",
+            "pic": false,
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Malaysia"
+                },
+                {
+                    "text": "Thái Lan"
+                },
+                {
+                    "text": "Phillippines"
+                },
+                {
+                    "text": "Campuchia"
                 }
             ]
         },
@@ -17013,6 +17433,27 @@
         },
         {
             "x": false,
+            "id": 32443,
+            "text": "<i>Don\u2019t Look Back<\/i>  là một bộ phim tài liệu về nhạc sĩ nào?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "Tom Waits"
+                },
+                {
+                    "text": "Neil Young"
+                },
+                {
+                    "text": "Mick Jagger"
+                },
+                {
+                    "correct": true,
+                    "text": "Bob Dylan"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 32442,
             "text": "Tiêu đề luận văn của Ted Kaczynski là gì?",
             "pic": false,
@@ -17035,7 +17476,7 @@
         {
             "x": false,
             "id": 32440,
-            "text": "Hạt có trong Nutella là gì?",
+            "text": "Hạt gì có trong Nutella?",
             "pic": false,
             "choices": [
                 {
@@ -17097,8 +17538,29 @@
         },
         {
             "x": false,
+            "id": 32435,
+            "text": "Drake xuất hiện trên chương trình tuổi teen nào?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "<i>The OC<\/i>"
+                },
+                {
+                    "text": "<i>Beverly Hills 90210<\/i>"
+                },
+                {
+                    "correct": true,
+                    "text": "<i>Degrassi: The Next Generation<\/i>"
+                },
+                {
+                    "text": "<i>Freaks and Geeks<\/i>"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 32432,
-            "text": "Ai chết trong <i>Những đóa mộc lan thép<\/i> ?",
+            "text": "Ai chết trong <i>Steel Magnolias<\/i> ?",
             "pic": false,
             "choices": [
                 {
@@ -17119,7 +17581,7 @@
         {
             "x": false,
             "id": 32429,
-            "text": "Cơ quan nào cung cấp insulin cho ngươi?",
+            "text": "Cơ quan nào tiết ra insulin cho ngươi?",
             "pic": false,
             "choices": [
                 {
@@ -17140,7 +17602,7 @@
         {
             "x": false,
             "id": 32425,
-            "text": "Làm thế nào để đánh vần bài hát đó từ <i>Mary Poppins<\/i> ?",
+            "text": "Đâu là cách viết đúng tên bài hát đó trong <i>Mary Poppins<\/i> ?",
             "pic": false,
             "choices": [
                 {
@@ -17370,6 +17832,27 @@
         },
         {
             "x": false,
+            "id": 32396,
+            "text": "Khẩu hiệu của hãng xe nào là \u201cThe Ultimate Driving Machine\u201d?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "Volkswagen"
+                },
+                {
+                    "text": "Land Rover"
+                },
+                {
+                    "text": "Audi"
+                },
+                {
+                    "correct": true,
+                    "text": "BMW"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 32395,
             "text": "Quốc gia nào sản xuất nhiều chuối nhất?",
             "pic": false,
@@ -17449,6 +17932,27 @@
                 },
                 {
                     "text": "13"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 32384,
+            "text": "Tên đệm của Raskolnikov trong <i>Tội ác và trừng phạt<\/i>  là gì?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "Semyenovich"
+                },
+                {
+                    "text": "Ivanovich"
+                },
+                {
+                    "text": "Alexandrovna"
+                },
+                {
+                    "correct": true,
+                    "text": "Romanovich"
                 }
             ]
         },
@@ -17832,6 +18336,27 @@
         },
         {
             "x": false,
+            "id": 32347,
+            "text": "Ai chưa từng làm người chủ trì lễ trao giải Oscar?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "Whoopi Goldberg"
+                },
+                {
+                    "correct": true,
+                    "text": "Rosie O\u2019Donnell"
+                },
+                {
+                    "text": "Bob Hope"
+                },
+                {
+                    "text": "Steve Martin"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 32346,
             "text": "Kia đến từ đâu?",
             "pic": false,
@@ -17916,6 +18441,27 @@
         },
         {
             "x": false,
+            "id": 32341,
+            "text": "Có bao nhiêu lá bài trong bộ bài <i>Uno\/i>  cơ bản?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "98"
+                },
+                {
+                    "correct": true,
+                    "text": "108"
+                },
+                {
+                    "text": "118"
+                },
+                {
+                    "text": "128"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 32340,
             "text": "Trong <i>Chuyện rừng xanh<\/i> , Akela là con vật nào?",
             "pic": false,
@@ -17979,6 +18525,27 @@
         },
         {
             "x": false,
+            "id": 32323,
+            "text": "Bộ sách thứ hai trong sê-ri <i>The Song of Ice and Fire<\/i>  của George R. R. Martin là gì?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "<i>A Dance with Dragons<\/i>"
+                },
+                {
+                    "correct": true,
+                    "text": "<i>A Clash of Kings<\/i>"
+                },
+                {
+                    "text": "<i>A Storm of Swords<\/i>"
+                },
+                {
+                    "text": "<i>A Feast of Crows<\/i>"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 32322,
             "text": "Greenland thuộc vương quốc nào?",
             "pic": false,
@@ -18021,6 +18588,27 @@
         },
         {
             "x": false,
+            "id": 32317,
+            "text": "Loại thịt nào có trong bánh mì kẹp kiểu Cuba?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "pastrami"
+                },
+                {
+                    "text": "thịt bò muối"
+                },
+                {
+                    "correct": true,
+                    "text": "thịt heo quay"
+                },
+                {
+                    "text": "lox"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 32316,
             "text": "Regina Spektor trình bày ca khúc chủ đề của bộ phim truyền hình nào?",
             "pic": false,
@@ -18037,6 +18625,27 @@
                 },
                 {
                     "text": "<i>Transparent<\/i>"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 32314,
+            "text": "Bộ tứ bạn bè nào bao gồm Lena, Tibby, Bridget và Carmen?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "<i>Little Women<\/i>"
+                },
+                {
+                    "correct": true,
+                    "text": "<i>The Sisterhood of the Traveling Pants<\/i>"
+                },
+                {
+                    "text": "<i>The Babysitters Club<\/i>"
+                },
+                {
+                    "text": "<i>Girls<\/i>"
                 }
             ]
         },
@@ -18064,7 +18673,7 @@
         {
             "x": false,
             "id": 32312,
-            "text": "Bộ phim tài liệu <i>Tạo nên kẻ giết người<\/i>  của Netflix diễn ra ở bang nào?",
+            "text": "Bộ phim tài liệu <i>Making a Murderer<\/i>  của Netflix diễn ra ở bang nào?",
             "pic": false,
             "choices": [
                 {
@@ -18079,6 +18688,27 @@
                 },
                 {
                     "text": "Michigan"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 32309,
+            "text": "Mèo Sphynx có nguồn gốc từ đâu?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "Mỹ"
+                },
+                {
+                    "text": "Ai Cập"
+                },
+                {
+                    "text": "Anh"
+                },
+                {
+                    "correct": true,
+                    "text": "Canada"
                 }
             ]
         },
@@ -18147,6 +18777,27 @@
         },
         {
             "x": false,
+            "id": 32303,
+            "text": "Eroteme là gì?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "~"
+                },
+                {
+                    "correct": true,
+                    "text": "?"
+                },
+                {
+                    "text": "&"
+                },
+                {
+                    "text": "$"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 32299,
             "text": "Nữ hoàng Elizabeth II đã kết hôn với người đẹp nào?",
             "pic": false,
@@ -18163,6 +18814,27 @@
                 },
                 {
                     "text": "Hoàng tử George"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 32297,
+            "text": "Teletubby nào có ăng-ten hình tam giác?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "Laa-Laa"
+                },
+                {
+                    "correct": true,
+                    "text": "Tinky Winky"
+                },
+                {
+                    "text": "Dipsy"
+                },
+                {
+                    "text": "Po"
                 }
             ]
         },
@@ -18323,7 +18995,7 @@
                     "text": "Justin Timberlake"
                 },
                 {
-                    "text": "Prince Harry"
+                    "text": "Hoàng tử Harry"
                 },
                 {
                     "text": "Will Ferrell"
@@ -18378,6 +19050,27 @@
         },
         {
             "x": false,
+            "id": 32266,
+            "text": "Cầu thủ bóng đá nào có biệt danh là Captain America?",
+            "pic": false,
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Christian Pulisic"
+                },
+                {
+                    "text": "Landon Donovan"
+                },
+                {
+                    "text": "Franco Baresi"
+                },
+                {
+                    "text": "Brian McBride"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 32265,
             "text": "Điều gì đã khiến vận động viên chạy Usain Bolt vấp ngã ngay sau khi giành huy chương vàng 200m vào năm 2015?",
             "pic": false,
@@ -18394,6 +19087,27 @@
                 },
                 {
                     "text": "một con sóc"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 32257,
+            "text": "Lin-Manuel Miranda là tác giả của vở nhạc kịch nào?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "<i>Once<\/i>"
+                },
+                {
+                    "text": "<i>Wicked<\/i>"
+                },
+                {
+                    "text": "<i>Avenue Q<\/i>"
+                },
+                {
+                    "correct": true,
+                    "text": "<i>Hamilton<\/i>"
                 }
             ]
         },
@@ -18484,7 +19198,7 @@
         {
             "x": false,
             "id": 32244,
-            "text": "Ai đã sáng tác <i>Chiếc nhẫn của người Nibelung<\/i> ?",
+            "text": "Ai đã sáng tác <i>The Ring Cycle<\/i> ?",
             "pic": false,
             "choices": [
                 {
@@ -18504,8 +19218,29 @@
         },
         {
             "x": false,
+            "id": 32242,
+            "text": "David Letterman đã là người dẫn chương trình <i>Late Night<\/i>  và <i>Late Show<\/i>  bao nhiêu năm?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "24 năm"
+                },
+                {
+                    "text": "27 năm"
+                },
+                {
+                    "text": "30 năm"
+                },
+                {
+                    "correct": true,
+                    "text": "33 năm"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 32241,
-            "text": "Cung hoàng đạo nào được miêu tả là nửa người, nửa ngựa?",
+            "text": "Biểu tượng cung hoàng đạo nào là nửa người, nửa ngựa?",
             "pic": false,
             "choices": [
                 {
@@ -18530,17 +19265,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "Tháng Hai"
+                    "text": "Tháng 2"
                 },
                 {
                     "correct": true,
-                    "text": "Tháng Tư"
+                    "text": "Tháng 4"
                 },
                 {
-                    "text": "Tháng Mười"
+                    "text": "Tháng 10"
                 },
                 {
-                    "text": "Tháng Mười hai"
+                    "text": "Tháng 12"
                 }
             ]
         },
@@ -18582,14 +19317,14 @@
                     "text": "động vật thân mềm"
                 },
                 {
-                    "text": "động vật da gai"
+                    "text": "cá"
                 }
             ]
         },
         {
             "x": false,
             "id": 32234,
-            "text": "Marty McFly quay trở lại năm nào trong <i>Trở lại tương lai<\/i> ?",
+            "text": "Marty McFly quay trở lại năm nào trong <i>Back to the Future<\/i> ?",
             "pic": false,
             "choices": [
                 {
@@ -18604,6 +19339,69 @@
                 },
                 {
                     "text": "1958"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 32230,
+            "text": "Đâu KHÔNG phải là một sự kiện trong năm môn phối hợp hiện đại?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "bơi tự do"
+                },
+                {
+                    "correct": true,
+                    "text": "nhảy xa"
+                },
+                {
+                    "text": "đấu kiếm"
+                },
+                {
+                    "text": "bắn súng"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 32227,
+            "text": "Bleeker Street là một phần của khu lân cận nổi tiếng nào ở New York?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "West End"
+                },
+                {
+                    "text": "Beverly Hills"
+                },
+                {
+                    "correct": true,
+                    "text": "Greenwich Village"
+                },
+                {
+                    "text": "French Quarter"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 32225,
+            "text": "Property Brothers là ai?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "anh em nhà Gaines"
+                },
+                {
+                    "correct": true,
+                    "text": "anh em nhà Scott"
+                },
+                {
+                    "text": "anh em nhà Jack"
+                },
+                {
+                    "text": "anh em nhà William"
                 }
             ]
         },
@@ -18672,6 +19470,27 @@
         },
         {
             "x": false,
+            "id": 32218,
+            "text": "Hank Aaron đã phá vỡ kỷ lục với 755 lần home run khi ở đội nào?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "New York Mets"
+                },
+                {
+                    "correct": true,
+                    "text": "Milwaukee Brewers"
+                },
+                {
+                    "text": "Atlanta Braves"
+                },
+                {
+                    "text": "San Francisco Giants"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 32215,
             "text": "Jonathan Taylor Thomas bước sang TUỔI NÀO vào năm 2016?",
             "pic": false,
@@ -18715,21 +19534,21 @@
         {
             "x": false,
             "id": 32201,
-            "text": "Ngươi có biết có bao nhiêu calo trong một tô phở bò tái không?!",
+            "text": "Ngươi có biết có khoảng bao nhiêu calo trong một ly Venti Caramel Frappuccino không?!",
             "pic": false,
             "choices": [
                 {
-                    "text": "250"
+                    "text": "310"
                 },
                 {
                     "correct": true,
-                    "text": "350"
+                    "text": "510"
                 },
                 {
-                    "text": "550"
+                    "text": "710"
                 },
                 {
-                    "text": "750"
+                    "text": "910"
                 }
             ]
         },
@@ -18778,7 +19597,7 @@
         {
             "x": false,
             "id": 32196,
-            "text": "Tên con khỉ của Nhà thám hiểm Dora là gì?",
+            "text": "Tên của con khỉ của Nhà thám hiểm Dora là gì?",
             "pic": false,
             "choices": [
                 {
@@ -18904,7 +19723,7 @@
         {
             "x": false,
             "id": 32178,
-            "text": "Ai là người trẻ nhất trong chị em nhà Kardashian?",
+            "text": "Ai là em út trong chị em nhà Kardashian?",
             "pic": false,
             "choices": [
                 {
@@ -19008,6 +19827,27 @@
         },
         {
             "x": false,
+            "id": 32169,
+            "text": "Nhà văn nào là phụ nữ?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "Percy Shelley"
+                },
+                {
+                    "text": "Jules Vern"
+                },
+                {
+                    "correct": true,
+                    "text": "George Eliot"
+                },
+                {
+                    "text": "Nathaniel Hawthorne"
+                }
+            ]
+        },
+        {
+            "x": false,
             "id": 32166,
             "text": "Lời bài hát theo sau \u201cHello\u201d trong bài hát cùng tên của Adele là gì?",
             "pic": false,
@@ -19093,21 +19933,21 @@
         {
             "x": false,
             "id": 32155,
-            "text": "Bộ truyện dành cho giới trẻ nào được sáng tác bởi Veronica Roth?",
+            "text": "Sê-ri sách dành cho giới trẻ nào được sáng tác bởi Veronica Roth?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Twilight<\/i>"
+                    "text": "<i>Chạng vạng<\/i>"
                 },
                 {
-                    "text": "<i>The Maze Runner<\/i>"
+                    "text": "<i>Giải mã mê cung<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Divergent<\/i>"
+                    "text": "<i>Những kẻ bất khả trị<\/i>"
                 },
                 {
-                    "text": "<i>The Hunger Games<\/i>"
+                    "text": "<i>Đấu trường sinh tử<\/i>"
                 }
             ]
         },
@@ -19128,7 +19968,7 @@
                     "text": "Anterior Calf Ligament"
                 },
                 {
-                    "text": "Anterior  Cartilage Ligament"
+                    "text": "Anterior Cartilage Ligament"
                 }
             ]
         },
@@ -19150,6 +19990,48 @@
                 },
                 {
                     "text": "Catherine"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 32149,
+            "text": "Đâu KHÔNG phải là một vùng đất trong board game <i>Risk<\/i> ?",
+            "pic": false,
+            "choices": [
+                {
+                    "correct": true,
+                    "text": "Cuba"
+                },
+                {
+                    "text": "Argentina"
+                },
+                {
+                    "text": "Brazil"
+                },
+                {
+                    "text": "Indonesia"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 32147,
+            "text": "Sam Elliot KHÔNG xuất hiện với bộ ria mép nổi tiếng của ông trong bộ phim nào?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "<i>Tombstone<\/i>"
+                },
+                {
+                    "text": "<i>Thank You For Smoking<\/i>"
+                },
+                {
+                    "correct": true,
+                    "text": "<i>We Were Soldiers<\/i>"
+                },
+                {
+                    "text": "<i>The Big Lebowski<\/i>"
                 }
             ]
         },
@@ -19297,6 +20179,48 @@
                 {
                     "correct": true,
                     "text": "thứ gì đó không có chiều dài, chiều rộng hoặc chiều cao"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 32126,
+            "text": "Walt Disney nắm giữ kỷ lục người giành được nhiều giải Oscar nhất với bao nhiêu lần đoạt giải?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "12 lần"
+                },
+                {
+                    "text": "16 lần"
+                },
+                {
+                    "correct": true,
+                    "text": "22 lần"
+                },
+                {
+                    "text": "30 lần"
+                }
+            ]
+        },
+        {
+            "x": false,
+            "id": 32125,
+            "text": "Bond girl nào sống ở cuối phim?",
+            "pic": false,
+            "choices": [
+                {
+                    "text": "Vesper Lynd"
+                },
+                {
+                    "correct": true,
+                    "text": "Holly Goodhead"
+                },
+                {
+                    "text": "Jill Masterson"
+                },
+                {
+                    "text": "Plenty O\u2019Toole"
                 }
             ]
         },
@@ -19618,21 +20542,21 @@
         {
             "x": false,
             "id": 32083,
-            "text": "Sarah Koenig is the host of which podcast?",
+            "text": "Hộp đen ngày nay có màu gì?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>The Moth<\/i>"
+                    "text": "đỏ"
                 },
                 {
-                    "text": "<i>Planet Money<\/i>"
+                    "text": "trắng"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Serial<\/i>"
+                    "text": "cam"
                 },
                 {
-                    "text": "<i>Radiolab<\/i>"
+                    "text": "đen"
                 }
             ]
         },
@@ -19660,21 +20584,21 @@
         {
             "x": false,
             "id": 32076,
-            "text": "Hồ Hoàn Kiếm có độ sâu bao nhiêu?",
+            "text": "Rãnh Mariana có độ sâu bao nhiêu?",
             "pic": false,
             "choices": [
                 {
-                    "text": "0.8 m"
+                    "text": "8,500 m"
                 },
                 {
                     "correct": true,
-                    "text": "1.2 m"
+                    "text": "11,000 m"
                 },
                 {
-                    "text": "1.6 m"
+                    "text": "15,000 m"
                 },
                 {
-                    "text": "2.0 m"
+                    "text": "21,000 m"
                 }
             ]
         },
@@ -19891,7 +20815,7 @@
         {
             "x": false,
             "id": 32049,
-            "text": "Ai là người LỚN NHẤT trong chị em Crawley trong <i>Downton Abbey<\/i> ?",
+            "text": "Ai là CHỊ CẢ trong chị em Crawley trong <i>Downton Abbey<\/i> ?",
             "pic": false,
             "choices": [
                 {
@@ -19975,7 +20899,7 @@
         {
             "x": false,
             "id": 32032,
-            "text": "Cardigan và Pembroke là giống chó đáng yêu nào?",
+            "text": "Cardigan và Pembroke là biến thể của giống chó đáng yêu nào?",
             "pic": false,
             "choices": [
                 {
@@ -20038,21 +20962,21 @@
         {
             "x": false,
             "id": 32027,
-            "text": "Quận nào ở Thành phố New York lớn nhất?",
+            "text": "Vùng lân cận nổi tiếng nào giáp với Canal Street và Esplanade Avenue?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Manhattan"
+                    "text": "Greenwich Village"
                 },
                 {
                     "correct": true,
-                    "text": "Queens"
+                    "text": "French Quarter"
                 },
                 {
-                    "text": "Brooklyn"
+                    "text": "Times Square"
                 },
                 {
-                    "text": "Bronx"
+                    "text": "Magnificent Mile"
                 }
             ]
         },
@@ -21214,7 +22138,7 @@
         {
             "x": false,
             "id": 31912,
-            "text": "Nó báo \u201ckhông thể tìm thấy tập tin\u201d. Ta nhận được thông báo lỗi gì?",
+            "text": "Nó báo \u201cfile cannot be found\u201d. Ta nhận được thông báo lỗi gì?",
             "pic": false,
             "choices": [
                 {
@@ -21487,21 +22411,21 @@
         {
             "x": false,
             "id": 31882,
-            "text": "Tập tiểu thuyết nào trong <i>Nhật ký của cậu bé nhút nhát<\/i>  phát hành trước?",
+            "text": "Tiêu đề của hồi ký của Amy Poehler là gì?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Sự thật phũ phàng<\/i>"
+                    "text": "<i>Bossypants<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Luật của Rodrick<\/i>"
+                    "text": "<i>Yes Please<\/i>"
                 },
                 {
-                    "text": "<i>Thánh nhọ<\/i>"
+                    "text": "<i>Born a Crime<\/i>"
                 },
                 {
-                    "text": "<i>Kỳ đà cản mũi<\/i>"
+                    "text": "<i>Why Not Me?<\/i>"
                 }
             ]
         },
@@ -22600,7 +23524,7 @@
         {
             "x": false,
             "id": 31749,
-            "text": "Ai là một Samantha?",
+            "text": "Ai là Samantha?",
             "pic": false,
             "choices": [
                 {
