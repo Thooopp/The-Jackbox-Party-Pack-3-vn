@@ -2845,7 +2845,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "Mumford & Sons",
+                    "text": "Westlife",
                     "easy": false
                 },
                 {
@@ -2883,7 +2883,7 @@
         {
             "x": false,
             "id": 36143,
-            "text": "Động Vật Trong <i>The Jungle Book<\/i>",
+            "text": "Động vật trong <i>The Jungle Book<\/i>",
             "choices": [
                 {
                     "correct": true,
@@ -3077,7 +3077,7 @@
         {
             "x": false,
             "id": 36141,
-            "text": "Quốc Gia Sử Dụng Đồng Euro Làm Đơn Vị Tiền Tệ Chính Thức",
+            "text": "Quốc gia sử dụng đồng Euro làm đơn vị tiền tệ chính thức",
             "choices": [
                 {
                     "correct": true,
@@ -3184,7 +3184,7 @@
         {
             "x": false,
             "id": 36140,
-            "text": "Thuốc Điều Trị Rối Loạn Cương Dương",
+            "text": "Thuốc điều trị rối loạn cương dương",
             "choices": [
                 {
                     "correct": true,
@@ -3271,7 +3271,7 @@
         {
             "x": false,
             "id": 36139,
-            "text": "Thành Viên Sáng Lập Liên Hợp Quốc",
+            "text": "Thành viên sáng lập Liên Hợp Quốc",
             "choices": [
                 {
                     "correct": true,
@@ -3358,7 +3358,7 @@
         {
             "x": false,
             "id": 36114,
-            "text": "Thành Phần Coca-Cola Light",
+            "text": "Thành phần Coca-Cola Light",
             "choices": [
                 {
                     "correct": true,
@@ -3435,7 +3435,7 @@
         {
             "x": false,
             "id": 36111,
-            "text": "Nhân Vật Trong <i>Friends<\/i>",
+            "text": "Nhân vật trong <i>Friends<\/i>",
             "choices": [
                 {
                     "correct": true,
@@ -3614,7 +3614,7 @@
         {
             "x": false,
             "id": 36103,
-            "text": "Nhà Vô Địch Giải Masters",
+            "text": "Nhà vô địch Giải Masters",
             "choices": [
                 {
                     "correct": true,
@@ -9723,7 +9723,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "James Dougherty",
+                    "text": "Rock Hudson",
                     "easy": false
                 },
                 {
@@ -9733,7 +9733,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "Arthur Miller",
+                    "text": "Montgomery Clift",
                     "easy": false
                 },
                 {
@@ -9743,12 +9743,12 @@
                 },
                 {
                     "correct": false,
-                    "text": "James Dean",
+                    "text": "Michael Jackson",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Elvis Presley",
+                    "text": "James Dean",
                     "easy": false
                 },
                 {
@@ -10979,7 +10979,7 @@
         {
             "x": false,
             "id": 35678,
-            "text": "Nhân vật trong <i>Chiến tranh giữa các vì sao: Niềm hy vọng mới<\/i>",
+            "text": "Nhân vật trong <i>Star Wars: A New Hope<\/i>",
             "choices": [
                 {
                     "correct": true,
@@ -11774,7 +11774,7 @@
         {
             "x": false,
             "id": 35651,
-            "text": "Phim trong loạt phim James Bond",
+            "text": "Phần phim James Bond",
             "choices": [
                 {
                     "correct": true,

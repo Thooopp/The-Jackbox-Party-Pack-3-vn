@@ -130,21 +130,21 @@
         {
             "x": false,
             "id": 41954,
-            "text": "Bộ phim nào có câu thoại nổi tiếng \u201cWolfman\u2019s got nards\u201d?",
+            "text": "Bộ phim nào có câu thoại nổi tiếng \u201cHasta la vista, baby\u201d?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Young Frankenstein<\/i>"
+                    "text": "<i>Men In Black<\/i>"
                 },
                 {
-                    "text": "<i>Scary Movie 2<\/i>"
+                    "text": "<i>The Fast and the Furious<\/i>"
                 },
                 {
-                    "text": "<i>An American Werewolf in London<\/i>"
+                    "text": "<i>Total Recall<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Monster Squad<\/i>"
+                    "text": "<i>Terminator 2: Judgment Day<\/i>"
                 }
             ]
         },
@@ -172,21 +172,21 @@
         {
             "x": false,
             "id": 41952,
-            "text": "<i>Leprechaun: Back 2 tha Hood<\/i>  là bộ phim thứ mấy trong loạt phim <i>Leprechaun<\/i> ?",
+            "text": "Bộ phim <i>Star Wars<\/i>  nào được phát hành trước?",
             "pic": false,
             "choices": [
                 {
-                    "text": "bộ thứ tư"
+                    "text": "<i>Episode V - The Empire Strikes Back<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "bộ thứ năm"
+                    "text": "<i>Episode IV - A New Hope<\/i>"
                 },
                 {
-                    "text": "bộ thứ sáu"
+                    "text": "<i>Epidose III - Revenge of the Sith<\/i>"
                 },
                 {
-                    "text": "bộ thứ bảy"
+                    "text": "<i>Episode II - Attack of the Clones</i>"
                 }
             ]
         },
@@ -613,7 +613,7 @@
         {
             "x": false,
             "id": 39114,
-            "text": "Thứ nào nặng hơn?",
+            "text": "Thứ nào hoặc ai nặng hơn?",
             "pic": false,
             "choices": [
                 {
@@ -823,7 +823,7 @@
         {
             "x": false,
             "id": 39059,
-            "text": "Thời lượng của <i>Sóc siêu quậy 2<\/i>  là bao lâu?",
+            "text": "Thời lượng của <i>Alvin and the Chipmunks: The Squeakquel<\/i>  là bao lâu?",
             "pic": false,
             "choices": [
                 {
@@ -1437,16 +1437,16 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "5745 km"
+                    "text": "5.745 km"
                 },
                 {
-                    "text": "4480 km"
+                    "text": "4.480 km"
                 },
                 {
-                    "text": "3428 km"
+                    "text": "3.428 km"
                 },
                 {
-                    "text": "2260 km"
+                    "text": "2.260 km"
                 }
             ]
         },
@@ -1957,7 +1957,7 @@
         {
             "x": false,
             "id": 38852,
-            "text": "Diễn viên hài lắm lời nào đã dẫn chương trình thiếu nhi <i>Thomas và những người bạn<\/i> ?",
+            "text": "Diễn viên hài lắm lời nào đã dẫn chương trình thiếu nhi <i>Thomas & Friends<\/i> ?",
             "pic": false,
             "choices": [
                 {
@@ -2150,17 +2150,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "1.47 m"
+                    "text": "1,47 m"
                 },
                 {
                     "correct": true,
-                    "text": "1.57 m"
+                    "text": "1,57 m"
                 },
                 {
-                    "text": "1.65 m"
+                    "text": "1,65 m"
                 },
                 {
-                    "text": "1.72 m"
+                    "text": "1,72 m"
                 }
             ]
         },
@@ -2188,7 +2188,7 @@
         {
             "x": false,
             "id": 38811,
-            "text": "Ngươi nên luộc một con tôm hùm nặng 0.5 kg trong bao lâu?",
+            "text": "Ngươi nên luộc một con tôm hùm nặng 0,5 kg trong bao lâu?",
             "pic": false,
             "choices": [
                 {
@@ -2214,7 +2214,7 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "vũ công"
+                    "text": "vũ công ba lê"
                 },
                 {
                     "text": "tòa nhà chọc trời"
@@ -2234,17 +2234,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "70.8"
+                    "text": "70,8"
                 },
                 {
-                    "text": "72.6"
+                    "text": "72,6"
                 },
                 {
                     "correct": true,
-                    "text": "76.2"
+                    "text": "76,2"
                 },
                 {
-                    "text": "78.4"
+                    "text": "78,4"
                 }
             ]
         },
@@ -2465,17 +2465,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "1.65 m"
+                    "text": "1,65 m"
                 },
                 {
-                    "text": "1.70 m"
+                    "text": "1,70 m"
                 },
                 {
-                    "text": "1.76 m"
+                    "text": "1,76 m"
                 },
                 {
                     "correct": true,
-                    "text": "1.82 m"
+                    "text": "1,82 m"
                 }
             ]
         },
@@ -2780,17 +2780,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "21.5 kg"
+                    "text": "21,5 kg"
                 },
                 {
                     "correct": true,
-                    "text": "31.5 kg"
+                    "text": "31,5 kg"
                 },
                 {
-                    "text": "41.5 kg"
+                    "text": "41,5 kg"
                 },
                 {
-                    "text": "51.5 kg"
+                    "text": "51,5 kg"
                 }
             ]
         },
@@ -3495,7 +3495,7 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "Alexander Fleming"
+                    "text": "Isaac Newton"
                 },
                 {
                     "text": "Marie Curie"
@@ -4078,7 +4078,7 @@
         {
             "x": false,
             "id": 38267,
-            "text": "Tên của con chim ưng của Richie trong <i>The Royal Tenenbaums<\/i>  của Wes Anderson là gì?",
+            "text": "Tên của con chim cắt của Richie trong <i>The Royal Tenenbaums<\/i>  của Wes Anderson là gì?",
             "pic": false,
             "choices": [
                 {
@@ -4120,7 +4120,7 @@
         {
             "x": false,
             "id": 38265,
-            "text": "Tên con mèo của Lão Gà Mên là gì?",
+            "text": "Tên của con mèo của Lão Gà Mên là gì?",
             "pic": false,
             "choices": [
                 {
@@ -5237,17 +5237,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "1.5-3"
+                    "text": "1,5-3"
                 },
                 {
-                    "text": "3.5-5"
+                    "text": "3,5-5"
                 },
                 {
                     "correct": true,
-                    "text": "5.5-7"
+                    "text": "5,5-7"
                 },
                 {
-                    "text": "7.5-9"
+                    "text": "7,5-9"
                 }
             ]
         },
@@ -5548,7 +5548,7 @@
         {
             "x": false,
             "id": 40530,
-            "text": "Đôi giày của cậu bé cao bồi màu gì?",
+            "text": "Đôi giày của cậu bé cao bồi có màu gì?",
             "pic": true,
             "choices": [
                 {
@@ -5583,7 +5583,7 @@
                     "text": "đó là một trận hòa"
                 },
                 {
-                    "text": "đó là một ván chơi còn dở"
+                    "text": "đó là một ván chơi dở"
                 }
             ]
         },
@@ -5916,7 +5916,7 @@
                     "text": "\u201cNăm ngón tay ngoan\u201d"
                 },
                 {
-                    "text": "\u201cCon chim non\""
+                    "text": "\u201cCon chim non\u210d"
                 },
                 {
                     "text": "\u201cChị Ông Nâu và em bé\u201d"
@@ -6136,21 +6136,21 @@
         {
             "x": false,
             "id": 38086,
-            "text": "Vandelay Industries sản xuất gì?",
+            "text": "Kodak sản xuất gì?",
             "pic": false,
             "choices": [
                 {
-                    "text": "súp"
+                    "text": "bao cao su"
                 },
                 {
                     "text": "áo ngực cho đàn ông"
                 },
                 {
-                    "text": "keo phong bì"
+                    "text": "văn phòng phẩm"
                 },
                 {
                     "correct": true,
-                    "text": "latex"
+                    "text": "máy ảnh"
                 }
             ]
         },
@@ -6413,24 +6413,24 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "1.2 m"
+                    "text": "1,2 m"
                 },
                 {
-                    "text": "1.5 m"
+                    "text": "1,5 m"
                 },
                 {
-                    "text": "1.6 m"
+                    "text": "1,6 m"
                 },
                 {
                     "correct": true,
-                    "text": "1.7 m"
+                    "text": "1,7 m"
                 }
             ]
         },
         {
             "x": false,
             "id": 38015,
-            "text": "Ai đã vô địch World Cup 2014?",
+            "text": "Quốc gia nào đã vô địch World Cup 2014?",
             "pic": false,
             "choices": [
                 {
@@ -6477,16 +6477,16 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "40,000 - 400,000 năm trước"
+                    "text": "40.000 - 400.000 năm trước"
                 },
                 {
-                    "text": "200,000 - 700,000 năm trước"
+                    "text": "200.000 - 700.000 năm trước"
                 },
                 {
-                    "text": "500,000 - 1.9 triệu năm trước"
+                    "text": "500.000 - 1,9 triệu năm trước"
                 },
                 {
-                    "text": "2.5 triệu năm trước"
+                    "text": "2,5 triệu năm trước"
                 }
             ]
         },
@@ -6619,7 +6619,7 @@
         {
             "x": false,
             "id": 37928,
-            "text": "Trong số pi, dãy ba số tiếp theo sau 3.14 là gì?",
+            "text": "Trong số pi, ba số tiếp theo sau 3,14 là gì?",
             "pic": false,
             "choices": [
                 {
@@ -6640,21 +6640,21 @@
         {
             "x": false,
             "id": 37927,
-            "text": "Một ức bằng bao nhiêu?",
+            "text": "Một vạn bằng bao nhiêu?",
             "pic": false,
             "choices": [
+                {
+                    "text": "100"
+                },
                 {
                     "text": "1,000"
                 },
                 {
+                    "correct": true,
                     "text": "10,000"
                 },
                 {
-                    "correct": true,
                     "text": "100,000"
-                },
-                {
-                    "text": "1,000,000"
                 }
             ]
         },
@@ -7946,17 +7946,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "7,250 km"
+                    "text": "7.250 km"
                 },
                 {
-                    "text": "19,315 km"
+                    "text": "19.315 km"
                 },
                 {
                     "correct": true,
-                    "text": "40,075 km"
+                    "text": "40.075 km"
                 },
                 {
-                    "text": "50,000 km"
+                    "text": "50.000 km"
                 }
             ]
         },
@@ -8089,7 +8089,7 @@
         {
             "x": false,
             "id": 37466,
-            "text": "Điều nào sau đây KHÔNG phải là một trong 10 tai ương mà Chúa giáng xuống Ai Cập trong Cựu Ước?",
+            "text": "Điều nào sau đây KHÔNG phải là 1 trong 10 tai ương mà Chúa giáng xuống Ai Cập trong Cựu Ước?",
             "pic": false,
             "choices": [
                 {
@@ -8404,7 +8404,7 @@
         {
             "x": false,
             "id": 37448,
-            "text": "Đứa trẻ nào bị vắt để lấy nước việt quất ra trong <i>Willy Wonka and the Chocolate Factory<\/i> ?",
+            "text": "Đứa trẻ nào bị vắt nước việt quất ra trong <i>Willy Wonka and the Chocolate Factory<\/i> ?",
             "pic": false,
             "choices": [
                 {
@@ -8425,7 +8425,7 @@
         {
             "x": false,
             "id": 37441,
-            "text": "Thứ nào KHÔNG được chọn trong \u201cMỗi ngày tôi chọn một niềm vui\u201d của Trịnh Công Sơn?",
+            "text": "Điều nào KHÔNG được chọn trong \u201cMỗi ngày tôi chọn một niềm vui\u201d của Trịnh Công Sơn?",
             "pic": false,
             "choices": [
                 {
@@ -8530,7 +8530,7 @@
         {
             "x": false,
             "id": 37410,
-            "text": "Acid nào sau đây không phải là acid có thật?",
+            "text": "Đâu không phải là acid có thật?",
             "pic": false,
             "choices": [
                 {
@@ -9447,7 +9447,7 @@
                     "text": "<i>Rosemary\u2019s Baby<\/i>"
                 },
                 {
-                    "text": "<i>Night of the Living Dead<\/i>"
+                    "text": "<i>Scream<\/i>"
                 }
             ]
         },
@@ -9874,7 +9874,7 @@
         {
             "x": false,
             "id": 37181,
-            "text": "Thứ nào trong hầm ngục của ta sẽ được tạo ra bởi một chandler?",
+            "text": "Thứ nào trong hầm ngục của ta sẽ được làm ra bởi một chandler?",
             "pic": false,
             "choices": [
                 {
@@ -11160,16 +11160,16 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "1.9 km/h"
+                    "text": "1,9 km/h"
                 },
                 {
-                    "text": "4.5 km/h"
+                    "text": "4,5 km/h"
                 },
                 {
-                    "text": "8.4 km/h"
+                    "text": "8,4 km/h"
                 },
                 {
-                    "text": "18.2 km/h"
+                    "text": "18,2 km/h"
                 }
             ]
         },
@@ -11370,16 +11370,16 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "42.195 km"
+                    "text": "42,195 km"
                 },
                 {
-                    "text": "34.759 km"
+                    "text": "34,759 km"
                 },
                 {
-                    "text": "28.065 km"
+                    "text": "28,065 km"
                 },
                 {
-                    "text": "12.659 km"
+                    "text": "12,659 km"
                 }
             ]
         },
@@ -11537,14 +11537,14 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "7.5%"
+                    "text": "7,5%"
                 },
                 {
-                    "text": "51.5%"
+                    "text": "51,5%"
                 },
                 {
                     "correct": true,
-                    "text": "92.5%"
+                    "text": "92,5%"
                 },
                 {
                     "text": "100%"
@@ -12331,7 +12331,7 @@
         {
             "x": false,
             "id": 33405,
-            "text": "Nhà thờ thánh Basil nằm ở thành phố nào?",
+            "text": "Nhà thờ Thánh Basil nằm ở thành phố nào?",
             "pic": false,
             "choices": [
                 {
@@ -12709,21 +12709,21 @@
         {
             "x": false,
             "id": 33269,
-            "text": "Nhận định nào là đúng về Antigone?",
+            "text": "<i>Chuyện tình Lan và Điệp<\/i>  được được dựa trên tác phẩm nào?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Bố của nàng là ông nội"
+                    "text": "<i>Tấm lòng vàng<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "Bố của nàng là anh trai"
+                    "text": "<i>Tắt lửa lòng<\/i>"
                 },
                 {
-                    "text": "Bố của nàng là ông ngoại"
+                    "text": "<i>Lá ngọc cành vàng<\/i>"
                 },
                 {
-                    "text": "Bố của nàng là chú"
+                    "text": "<i>Ngày xưa có một chuyện tình<\/i>"
                 }
             ]
         },
@@ -13328,11 +13328,11 @@
                     "text": "Sam-I-Am"
                 },
                 {
-                    "text": "The Cat in the Hat"
+                    "text": "Cat in the Hat"
                 },
                 {
                     "correct": true,
-                    "text": "The Lorax"
+                    "text": "Lorax"
                 }
             ]
         },
@@ -13428,13 +13428,13 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "7.5 m"
+                    "text": "7,5 m"
                 },
                 {
                     "text": "15 m"
                 },
                 {
-                    "text": "22.5 m"
+                    "text": "22,5 m"
                 },
                 {
                     "text": "30 m"
@@ -13549,21 +13549,21 @@
         {
             "x": false,
             "id": 32885,
-            "text": "Khi nào ngươi hát \u201cTake Me Out to the Ballgame\u201d?",
+            "text": "Ngày lễ nào diễn ra vào rằm tháng Giêng Âm lịch?",
             "pic": false,
             "choices": [
                 {
-                    "text": "trước hiệp 7"
+                    "text": "Tết Đoan Ngọ"
                 },
                 {
                     "correct": true,
-                    "text": "giữa nửa đầu và cuối hiệp 7"
+                    "text": "Tết Nguyên Tiêu"
                 },
                 {
-                    "text": "sau hiệp 8"
+                    "text": "Tết Hàn Thực"
                 },
                 {
-                    "text": "sau nửa cuối 7"
+                    "text": "Tết Thanh Minh"
                 }
             ]
         },
@@ -13826,13 +13826,13 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "1.5 m"
+                    "text": "1,5 m"
                 },
                 {
                     "text": "3 m"
                 },
                 {
-                    "text": "4.5 m"
+                    "text": "4,5 m"
                 },
                 {
                     "correct": true,
@@ -14893,21 +14893,21 @@
         {
             "x": false,
             "id": 32724,
-            "text": "<i>Chuyện tình Lan và Điệp<\/i>  được được dựa trên tác phẩm nào?",
+            "text": "Nếu một người có sinh nhật là 13 tháng 5, họ có cung gì?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "<i>Tắt lửa lòng<\/i>"
+                    "text": "Kim Ngưu"
                 },
                 {
-                    "text": "<i>Tấm lòng vàng<\/i>"
+                    "text": "Song Tử"
                 },
                 {
-                    "text": "<i>Lá ngọc cành vàng<\/i>"
+                    "text": "Bạch Dương"
                 },
                 {
-                    "text": "<i>Ngày xưa có một chuyện tình<\/i>"
+                    "text": "Nhân Mã"
                 }
             ]
         },
@@ -15565,21 +15565,21 @@
         {
             "x": false,
             "id": 32648,
-            "text": "Tiền giấy được phát minh khi nào?",
+            "text": "Địa danh nào ở trên tờ 5.000 đồng?",
             "pic": false,
             "choices": [
                 {
-                    "text": "thế kỷ V"
+                    "text": "Nhà máy thủy điện Sơn La"
                 },
                 {
                     "correct": true,
-                    "text": "thế kỷ VII"
+                    "text": "Nhà máy thủy điện Trị An"
                 },
                 {
-                    "text": "thế kỷ IX"
+                    "text": "Nhà máy thủy điện Hòa Bình"
                 },
                 {
-                    "text": "thế kỷ XI"
+                    "text": "Nhà máy thủy điện Ilaly"
                 }
             ]
         },
@@ -15817,7 +15817,7 @@
         {
             "x": false,
             "id": 32625,
-            "text": "Diễn viên hài nào đã dẫn chương trình chơi khăm <i>Scare Tactics<\/i> ?",
+            "text": "Diễn viên hài nào dẫn chương trình chơi khăm <i>Scare Tactics<\/i> ?",
             "pic": false,
             "choices": [
                 {
@@ -16384,7 +16384,7 @@
         {
             "x": false,
             "id": 32574,
-            "text": "Thứ gì ở ngay phía trên tầng đối lưu?",
+            "text": "Tầng gì ở ngay phía trên tầng đối lưu?",
             "pic": false,
             "choices": [
                 {
@@ -16909,28 +16909,28 @@
         {
             "x": false,
             "id": 32533,
-            "text": "Sê-ri <i>Real Housewives<\/i>  nào là phiên bản gốc?",
+            "text": "Tên ban đầu của công cụ tìm kiếm Google là gì?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>The Real Housewives of D.C.<\/i>"
+                    "text": "PageRank"
                 },
                 {
-                    "text": "<i>The Real Housewives of Atlanta<\/i>"
+                    "text": "Larry\u2019s Engine"
                 },
                 {
                     "correct": true,
-                    "text": "<i>The Real Housewives of Orange County<\/i>"
+                    "text": "BackRub"
                 },
                 {
-                    "text": "<i>The Real Housewives of New York City<\/i>"
+                    "text": "Finder Blaster"
                 }
             ]
         },
         {
             "x": false,
             "id": 32530,
-            "text": "Trò chơi nào sau đây từ franchise <i>Call of Duty<\/i>  ra mắt TRƯỚC?",
+            "text": "Phiên bản <i>Call of Duty<\/i>  nào ra mắt TRƯỚC?",
             "pic": false,
             "choices": [
                 {
@@ -17161,21 +17161,21 @@
         {
             "x": false,
             "id": 32497,
-            "text": "Madonna đóng vai nhân vật nào trong <i>A League of Their Own<\/i> ?",
+            "text": "Demi Lovato đóng vai ai trong <i>Barney & Friends<\/i> ?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Dottie Hinson"
+                    "text": "Kim"
                 },
                 {
-                    "text": "Evelyn Gardner"
+                    "text": "Gianna"
                 },
                 {
-                    "text": "Helen Haley"
+                    "text": "Debbie"
                 },
                 {
                     "correct": true,
-                    "text": "Mae Mordabito"
+                    "text": "Angela"
                 }
             ]
         },
@@ -17224,7 +17224,7 @@
         {
             "x": false,
             "id": 32493,
-            "text": "Bức tượng con vật nào được ở trên Cổng Brandenburger, biểu tượng của Berlin?",
+            "text": "Bức tượng con vật nào ở trên Cổng Brandenburger, biểu tượng của Berlin?",
             "pic": false,
             "choices": [
                 {
@@ -17665,21 +17665,21 @@
         {
             "x": false,
             "id": 32452,
-            "text": "Địa điểm tổ chức của mùa đầu tiên của <i>Survivor<\/i>  ở đâu?",
+            "text": "Sát nhân nào bắt đầu giết người trước?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Malaysia"
+                    "text": "Michael Myers"
                 },
                 {
-                    "text": "Thái Lan"
+                    "text": "Freddy Krueger"
                 },
                 {
-                    "text": "Phillippines"
+                    "text": "Jason Voorhees"
                 },
                 {
-                    "text": "Campuchia"
+                    "text": "Ghostface"
                 }
             ]
         },
@@ -19576,21 +19576,21 @@
         {
             "x": false,
             "id": 32242,
-            "text": "David Letterman đã là người dẫn chương trình <i>Late Night<\/i>  và <i>Late Show<\/i>  bao nhiêu năm?",
+            "text": "Tùng Chi đã là người dẫn chính cho chương trình <i>Đường lên đỉnh Olympia<\/i>  bao nhiêu năm?",
             "pic": false,
             "choices": [
                 {
-                    "text": "24 năm"
+                    "text": "8 năm"
                 },
                 {
-                    "text": "27 năm"
+                    "text": "10 năm"
                 },
                 {
-                    "text": "30 năm"
+                    "text": "12 năm"
                 },
                 {
                     "correct": true,
-                    "text": "33 năm"
+                    "text": "14 năm"
                 }
             ]
         },
@@ -19891,7 +19891,7 @@
         {
             "x": false,
             "id": 32201,
-            "text": "Ngươi có biết có khoảng bao nhiêu calo trong một ly Venti Caramel Frappuccino không?!",
+            "text": "Ngươi có biết có khoảng bao nhiêu calo trong một ly Venti Caramel Frappuccino của Starbucks không?!",
             "pic": false,
             "choices": [
                 {
@@ -19933,7 +19933,7 @@
         {
             "x": false,
             "id": 32198,
-            "text": "Nhiệt độ ở đó là 15.56 độ C. Đó là bao nhiêu trong Fahrenheit?",
+            "text": "Nhiệt độ ở đó là 15,56 độ C. Đó là bao nhiêu trong Fahrenheit?",
             "pic": false,
             "choices": [
                 {
@@ -20920,21 +20920,21 @@
         {
             "x": false,
             "id": 32083,
-            "text": "Hộp đen ngày nay có màu gì?",
+            "text": "Bộ sitcom nào KHÔNG lấy bối cảnh ở thành phố New York?",
             "pic": false,
             "choices": [
                 {
-                    "text": "đỏ"
+                    "text": "<i>2 Broke Girls<\/i>"
                 },
                 {
-                    "text": "trắng"
+                    "text": "<i>Sex and the City<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "cam"
+                    "text": "<i>The Big Bang Theory<\/i>"
                 },
                 {
-                    "text": "đen"
+                    "text": "<i>How I Met Your Mother<\/i>"
                 }
             ]
         },
@@ -20966,17 +20966,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "8,500 m"
+                    "text": "8.500 m"
                 },
                 {
                     "correct": true,
-                    "text": "11,000 m"
+                    "text": "11.000 m"
                 },
                 {
-                    "text": "15,000 m"
+                    "text": "15.000 m"
                 },
                 {
-                    "text": "21,000 m"
+                    "text": "21.000 m"
                 }
             ]
         },
@@ -21256,7 +21256,7 @@
         {
             "x": false,
             "id": 32035,
-            "text": "Con vật nào mang thai lâu nhất?",
+            "text": "Con vật nào có thời gian mang thai dài nhất?",
             "pic": false,
             "choices": [
                 {
@@ -21340,21 +21340,21 @@
         {
             "x": false,
             "id": 32027,
-            "text": "Vùng lân cận nổi tiếng nào giáp với Canal Street và Esplanade Avenue?",
+            "text": "Công trình nào KHÔNG có ở Quảng trường Đỏ?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Greenwich Village"
+                    "text": "Lăng Lenin"
                 },
                 {
                     "correct": true,
-                    "text": "French Quarter"
+                    "text": "Nhà hát Bolshoi"
                 },
                 {
-                    "text": "Times Square"
+                    "text": "Nhà thờ Thánh Basil"
                 },
                 {
-                    "text": "Magnificent Mile"
+                    "text": "Điện Kremlin"
                 }
             ]
         },
@@ -21886,14 +21886,14 @@
         {
             "x": false,
             "id": 31975,
-            "text": "Ai đã sáng tác \u201cĐường đến ngày vinh quang\u201d?",
+            "text": "Ai đã sáng tác \u201cBình minh sinh viên\u201d, bài hát trong <i>SV 2000<\/i> ?",
             "pic": false,
             "choices": [
                 {
                     "text": "Huy Tuấn"
                 },
                 {
-                    "text": "Hoàng Hiệp"
+                    "text": "Tuấn Khanh"
                 },
                 {
                     "correct": true,
@@ -21974,17 +21974,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "Tháng Mười, 2014"
+                    "text": "Tháng 10, 2014"
                 },
                 {
-                    "text": "Tháng Một, 2015"
+                    "text": "Tháng 1, 2015"
                 },
                 {
                     "correct": true,
-                    "text": "Tháng Ba, 2015"
+                    "text": "Tháng 3, 2015"
                 },
                 {
-                    "text": "Tháng Bảy, 2015"
+                    "text": "Tháng 7, 2015"
                 }
             ]
         },
@@ -22037,17 +22037,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "1.16 m"
+                    "text": "1,16 m"
                 },
                 {
-                    "text": "1.21 m"
+                    "text": "1,21 m"
                 },
                 {
-                    "text": "1.37 m"
+                    "text": "1,37 m"
                 },
                 {
                     "correct": true,
-                    "text": "1.44 m"
+                    "text": "1,44 m"
                 }
             ]
         },
@@ -22327,28 +22327,28 @@
         {
             "x": false,
             "id": 31930,
-            "text": "Chương trình thực tế nào của <i>Bravo<\/i>  có sự tham gia của Jax, Scheana và Ariana?",
+            "text": "Tony Vlachos là người chiến thắng mùa nào của <i>Survivor</i> ?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "<i>Vanderpump Rules<\/i>"
+                    "text": "<i>Survivor: Cagayan<\/i>"
                 },
                 {
-                    "text": "<i>Rich Kids of Beverly Hills<\/i>"
+                    "text": "<i>Survivor: All-Stars<\/i>"
                 },
                 {
-                    "text": "<i>Southern Charm<\/i>"
+                    "text": "<i>Survivor: Pearl Islands<\/i>"
                 },
                 {
-                    "text": "<i>Below Deck<\/i>"
+                    "text": "<i>Survivor: Heroes vs. Villains<\/i>"
                 }
             ]
         },
         {
             "x": false,
             "id": 31929,
-            "text": "Con vật nào xuất hiện trong video đầu tiên được tải lên YouTube?",
+            "text": "Con vật nào xuất hiện trong video đầu tiên được đăng lên YouTube?",
             "pic": false,
             "choices": [
                 {
@@ -22474,21 +22474,21 @@
         {
             "x": false,
             "id": 31915,
-            "text": "Mirinda được bắt nguồn từ tiếng Quốc Tế Ngữ có nghĩa là gì?",
+            "text": "Tonic ban đầu được phát minh để chống bệnh gì?",
             "pic": false,
             "choices": [
                 {
-                    "text": "phi thường"
+                    "text": "thương hàn"
                 },
                 {
-                    "text": "tuyệt vời"
+                    "text": "quai bị"
                 },
                 {
                     "correct": true,
-                    "text": "đáng ngưỡng mộ"
+                    "text": "sốt rét"
                 },
                 {
-                    "text": "hấp dẫn"
+                    "text": "scourbut"
                 }
             ]
         },
@@ -22621,7 +22621,7 @@
         {
             "x": false,
             "id": 31902,
-            "text": "Nếu ta muốn phân hủy một thi thể, ta nên nhấn chìm nó trong cái gì?",
+            "text": "Nếu ta muốn phân hủy một thi thể, ta nên ngâm nó trong gì?",
             "pic": false,
             "choices": [
                 {
@@ -22775,35 +22775,35 @@
                     "text": "500 triệu năm"
                 },
                 {
-                    "text": "1.5 tỷ năm"
+                    "text": "1,5 tỷ năm"
                 },
                 {
                     "correct": true,
-                    "text": "4.5 tỷ năm"
+                    "text": "4,5 tỷ năm"
                 },
                 {
-                    "text": "6.5 nghìn tỷ năm"
+                    "text": "6,5 nghìn tỷ năm"
                 }
             ]
         },
         {
             "x": false,
             "id": 31882,
-            "text": "Tiêu đề của hồi ký của Amy Poehler là gì?",
+            "text": "Tác phẩm nào sau đây của Nguyễn Nhật Ánh được sáng tác trước?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Bossypants<\/i>"
+                    "text": "<i>Hạ đỏ<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Yes Please<\/i>"
+                    "text": "<i>Chú bé rắc rối<\/i>"
                 },
                 {
-                    "text": "<i>Born a Crime<\/i>"
+                    "text": "<i>Tôi thấy hoa vàng trên cỏ xanh<\/i>"
                 },
                 {
-                    "text": "<i>Why Not Me?<\/i>"
+                    "text": "<i>Trại hoa vàng<\/i>"
                 }
             ]
         },
@@ -23066,14 +23066,14 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "1.9 l"
+                    "text": "1,9 l"
                 },
                 {
                     "correct": true,
-                    "text": "5.7 l"
+                    "text": "5,7 l"
                 },
                 {
-                    "text": "11.3 l"
+                    "text": "11,3 l"
                 },
                 {
                     "text": "19 l"
@@ -23178,7 +23178,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "Mirinda"
+                    "text": "Sprite"
                 },
                 {
                     "text": "Trà đen túi lọc Lipton"
@@ -23776,21 +23776,21 @@
         {
             "x": false,
             "id": 31762,
-            "text": "Trong <i>Muppet Christmas Carol<\/i> năm 1992, ai đã đóng vai Charles Dickens?",
+            "text": "Trong <i>Làng Vũ Đại ngày ấy<\/i> , ai đóng vai giáo Thứ?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "Gonzo"
+                    "text": "Hữu Mười"
                 },
                 {
-                    "text": "Fozzie Bear"
+                    "text": "Bùi Cường"
                 },
                 {
-                    "text": "Waldorf"
+                    "text": "Đức Lưu"
                 },
                 {
-                    "text": "Sam Eagle"
+                    "text": "Kim Lân"
                 }
             ]
         },
