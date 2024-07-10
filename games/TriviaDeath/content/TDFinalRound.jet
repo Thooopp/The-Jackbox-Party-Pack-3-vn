@@ -1088,81 +1088,81 @@
         {
             "x": false,
             "id": 36224,
-            "text": "Quốc gia giáp với Biển Đông",
+            "text": "Ký tự cần nhấn nút Shift",
             "choices": [
                 {
                     "correct": true,
-                    "text": "Việt Nam",
+                    "text": "!",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Trung Quốc",
+                    "text": "@",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Philippines",
+                    "text": "#",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Malaysia",
+                    "text": "~",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Brunei",
+                    "text": "%",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Indonesia",
+                    "text": "^",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Thái Lan",
+                    "text": "&",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Campuchia",
+                    "text": "*",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Singapore",
+                    "text": ":",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Lào",
+                    "text": ";",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Triều Tiên",
+                    "text": "/",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Ấn Độ",
+                    "text": ",",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Myanmar",
+                    "text": "=",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Mông Cổ",
+                    "text": "[",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Pakistan",
+                    "text": "`",
                     "easy": false
                 }
             ]
@@ -1600,56 +1600,56 @@
         {
             "x": false,
             "id": 41658,
-            "text": "Thành viên của Bone Thugs-n-Harmony",
+            "text": "Thành viên của Spice Girls",
             "choices": [
                 {
                     "correct": true,
-                    "text": "Bizzy Bone",
+                    "text": "Sporty Spice",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Wish Bone",
+                    "text": "Baby Spice",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Layzie Bone",
+                    "text": "Scary Spice",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Krayzie Bone",
+                    "text": "Ginger Spice",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Flesh-n-Bone",
+                    "text": "Posh Spice",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Bad Bone",
+                    "text": "Bad Spice",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Big Bone",
+                    "text": "Crazy Spice",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "T Bone",
+                    "text": "Ice Spice",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Hayzie Bone",
+                    "text": "Sweet Spice",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Doggy Bone",
+                    "text": "Hot Spice",
                     "easy": false
                 }
             ]
@@ -2060,86 +2060,86 @@
         {
             "x": false,
             "id": 35962,
-            "text": "Đạt Giải thưởng Hồ Chí Minh về Văn học Nghệ thuật",
+            "text": "Đồ ăn chiên",
             "choices": [
                 {
                     "correct": true,
-                    "text": "Nam Cao",
+                    "text": "beignet",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Nguyên Hồng",
+                    "text": "churro",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Nguyễn Huy Tưởng",
+                    "text": "falafel",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Nguyễn Quang Sáng",
+                    "text": "bánh cam",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Hữu Thỉnh",
+                    "text": "chimichanga",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Nguyễn Bính",
+                    "text": "berliner",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Hoài Thanh",
+                    "text": "paczki",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Tô Hoài",
+                    "text": "sopaipilla",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Lưu Trọng Lư",
+                    "text": "empanada",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Nguyễn Đình Thi",
+                    "text": "cannoli",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Vũ Trọng Phụng",
+                    "text": "baklava",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Thạch Lam",
+                    "text": "bánh đúc",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Quang Dũng",
+                    "text": "macaron",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Kim Lân",
+                    "text": "flan",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Đoàn Giỏi",
+                    "text": "strudel",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Phùng Quán",
+                    "text": "pavlova",
                     "easy": false
                 }
             ]
@@ -2418,76 +2418,76 @@
         {
             "x": false,
             "id": 35796,
-            "text": "\u201cMỉa mai\u201d trong <i>Ironic<\/i>  của Alanis Morissette",
+            "text": "Được \u201cchọn\u201d trong <i>Mỗi ngày tôi chọn một niềm vui<\/i>  của Trịnh Công Sơn",
             "choices": [
                 {
                     "correct": true,
-                    "text": "một con ruồi đen trong ly rượu chardonnay của bạn",
+                    "text": "một niềm vui",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "mưa vào ngày cưới của bạn",
+                    "text": "những bông hoa",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "một chuyến đi miễn phí mà bạn đã trả tiền",
+                    "text": "những nụ cười",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "10,000 cái thìa khi bạn cần một con dao",
+                    "text": "đường mình đi",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "lời khuyên hay mà bạn không nghe",
+                    "text": "ngồi thật yên",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "lệnh ân xá tử hình trễ hai phút",
+                    "text": "tiếng ru con",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "tắc đường khi mà bạn đã trễ giờ",
+                    "text": "nắng đầy",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "biển \u201cCấm hút thuốc\u201d trong giờ nghỉ hút thuốc",
+                    "text": "cơn mưa tới",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "chết khát giữa đại dương",
+                    "text": "một trái tim",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "trễ giờ sau khi mua một chiếc đồng hồ",
+                    "text": "tiếng chim hót",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "bị dị ứng với đậu phộng",
+                    "text": "người mình yêu",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "tìm thấy tờ một đô la",
+                    "text": "bức thư tình",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "nói \u201cAnh yêu em\u201d khi bạn chết",
+                    "text": "những ngôi sao",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "chiếc xe hơi mới của bạn bị cướp",
+                    "text": "cánh chim bay",
                     "easy": false
                 }
             ]
@@ -2495,7 +2495,7 @@
         {
             "x": false,
             "id": 35732,
-            "text": "Chữ Cái Trong Bảng Chữ Cái Hy Lạp",
+            "text": "Chữ cái trong bảng chữ cái Hy Lạp",
             "choices": [
                 {
                     "correct": true,
@@ -3077,41 +3077,21 @@
         {
             "x": false,
             "id": 36141,
-            "text": "Quốc gia sử dụng đồng Euro làm đơn vị tiền tệ chính thức",
+            "text": "Quốc gia lưu thông bên trái",
             "choices": [
                 {
                     "correct": true,
-                    "text": "Áo",
+                    "text": "Hồng Kông",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Bỉ",
+                    "text": "Ấn Độ",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Estonia",
-                    "easy": false
-                },
-                {
-                    "correct": true,
-                    "text": "Phần Lan",
-                    "easy": false
-                },
-                {
-                    "correct": true,
-                    "text": "Pháp",
-                    "easy": false
-                },
-                {
-                    "correct": true,
-                    "text": "Đức",
-                    "easy": false
-                },
-                {
-                    "correct": true,
-                    "text": "Hy Lạp",
+                    "text": "Nhật Bản",
                     "easy": false
                 },
                 {
@@ -3121,22 +3101,52 @@
                 },
                 {
                     "correct": true,
-                    "text": "Ý",
+                    "text": "Úc",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Bồ Đào Nha",
+                    "text": "Malaysia",
+                    "easy": false
+                },
+                {
+                    "correct": true,
+                    "text": "Thái Lan",
+                    "easy": false
+                },
+                {
+                    "correct": true,
+                    "text": "New Zealand",
+                    "easy": false
+                },
+                {
+                    "correct": true,
+                    "text": "Singapore",
+                    "easy": false
+                },
+                {
+                    "correct": true,
+                    "text": "Vương quốc Anh",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Mexico",
+                    "text": "Ý",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Đông Timor",
+                    "text": "Ai Cập",
+                    "easy": false
+                },
+                {
+                    "correct": false,
+                    "text": "Đức",
+                    "easy": false
+                },
+                {
+                    "correct": false,
+                    "text": "Nga",
                     "easy": false
                 },
                 {
@@ -3146,17 +3156,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "Nhật Bản",
-                    "easy": false
-                },
-                {
-                    "correct": false,
-                    "text": "Thụy Điển",
-                    "easy": false
-                },
-                {
-                    "correct": false,
-                    "text": "Ba Lan",
+                    "text": "Mexico",
                     "easy": false
                 },
                 {
@@ -3166,17 +3166,17 @@
                 },
                 {
                     "correct": false,
-                    "text": "Romania",
+                    "text": "Ba Lan",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Cộng hòa Séc",
+                    "text": "Cuba",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Thổ Nhĩ Kỳ",
+                    "text": "Campuchia",
                     "easy": false
                 }
             ]
@@ -3435,71 +3435,71 @@
         {
             "x": false,
             "id": 36111,
-            "text": "Nhân vật trong <i>Friends<\/i>",
+            "text": "Nhân vật trong <i>The Big Bang Theory<\/i>",
             "choices": [
                 {
                     "correct": true,
+                    "text": "Sheldon Cooper",
+                    "easy": false
+                },
+                {
+                    "correct": true,
+                    "text": "Penny Hofstadter",
+                    "easy": false
+                },
+                {
+                    "correct": true,
+                    "text": "Leonard Hofstadter",
+                    "easy": false
+                },
+                {
+                    "correct": true,
+                    "text": "Howard Wolowitz",
+                    "easy": false
+                },
+                {
+                    "correct": true,
+                    "text": "Raj Koothrappali",
+                    "easy": false
+                },
+                {
+                    "correct": true,
+                    "text": "Leslie Winkle",
+                    "easy": false
+                },
+                {
+                    "correct": true,
+                    "text": "Bernadette Rostenkowski-Wolowitz",
+                    "easy": false
+                },
+                {
+                    "correct": true,
+                    "text": "Amy Farrah Fowler",
+                    "easy": false
+                },
+                {
+                    "correct": true,
+                    "text": "Stuart Bloom",
+                    "easy": false
+                },
+                {
+                    "correct": true,
+                    "text": "Emily Sweeney",
+                    "easy": false
+                },
+                {
+                    "correct": false,
                     "text": "Rachel Green",
                     "easy": false
                 },
                 {
-                    "correct": true,
-                    "text": "Monica Geller",
-                    "easy": false
-                },
-                {
-                    "correct": true,
-                    "text": "Phoebe Buffay",
-                    "easy": false
-                },
-                {
-                    "correct": true,
-                    "text": "Joey Tribbiani",
-                    "easy": false
-                },
-                {
-                    "correct": true,
-                    "text": "Chandler Bing",
-                    "easy": false
-                },
-                {
-                    "correct": true,
-                    "text": "Ross Geller",
-                    "easy": false
-                },
-                {
-                    "correct": true,
-                    "text": "Gunther",
-                    "easy": false
-                },
-                {
-                    "correct": true,
-                    "text": "Mike Hannigan",
-                    "easy": false
-                },
-                {
-                    "correct": true,
-                    "text": "Janice Litman-Goralnik",
-                    "easy": false
-                },
-                {
-                    "correct": true,
-                    "text": "Jack Geller",
+                    "correct": false,
+                    "text": "Mark Brendanawicz",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Niles Crane",
-                    "easy": false
-                },
-                {
-                    "correct": false,
-                    "text": "Bobbie Morganstern",
-                    "easy": false
-                },
-                {
-                    "correct": false,
-                    "text": "Woody Harrelson",
+                    "text": "Leslie Knope",
                     "easy": false
                 },
                 {
@@ -3519,7 +3519,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "George Costanza",
+                    "text": "Barney Stinson",
                     "easy": false
                 },
                 {
@@ -4103,7 +4103,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "<i>Mẹ mìn bố mìn<\/i>",
+                    "text": "<i>Cánh đồng bất tận<\/i>",
                     "easy": false
                 },
                 {
@@ -4610,67 +4610,67 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "Hippocampus",
+                    "text": "Hồi hải mã",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Amygdala",
+                    "text": "Hạch hạnh nhân",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Cerebellum",
+                    "text": "Tiểu não",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Cerebrum",
+                    "text": "Đại não",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Medulla",
+                    "text": "Hành não",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Thalamus",
+                    "text": "Đồi thị",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Broca\u2019s Area",
+                    "text": "Vùng Broca",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Cochlea",
+                    "text": "Ốc não",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Incus",
+                    "text": "Đồi sụn",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Malleus",
+                    "text": "Đồi mồi",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Eustachian Tube",
+                    "text": "Vòi Eustach",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Pinna",
+                    "text": "Vành não",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Sclera",
+                    "text": "Long não",
                     "easy": false
                 }
             ]
@@ -4921,7 +4921,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "Rosie O\u2019Donnell",
+                    "text": "John Travolta",
                     "easy": false
                 },
                 {
@@ -4959,81 +4959,81 @@
         {
             "x": false,
             "id": 35983,
-            "text": "Tổng bí thư Đảng Cộng Sản Việt Nam",
+            "text": "Lãnh tụ Liên Xô",
             "choices": [
                 {
                     "correct": true,
-                    "text": "Trần Phú",
+                    "text": "Vladimir Lenin",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Lê Hồng Phong",
+                    "text": "Joseph Stalin",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Hà Huy Tập",
+                    "text": "Georgy Malenkov",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Nguyễn Văn Cừ",
+                    "text": "Nikita Khrushchev",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Trường Chinh",
+                    "text": "Leonid Brezhnev",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Lê Duẩn",
+                    "text": "Yuri Andropov",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Đỗ Mười",
+                    "text": "Konstantin Chernenko",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Nguyễn Phú Trọng",
+                    "text": "Mikhail Gorbachev",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Phạm Văn Đồng",
+                    "text": "Ivan Turgenev",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Nguyễn Xuân Phúc",
+                    "text": "Andrey Sakharov",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Huỳnh Thúc Kháng",
+                    "text": "Rudolf Nureyev",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Phạm Hùng",
+                    "text": "Pyotr Stolypin",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Võ Văn Kiệt",
+                    "text": "Boris Yeltsin",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Hoàng Tụy",
+                    "text": "Anton Chekhov",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Trần Đại Nghĩa",
+                    "text": "Nikolai Ostrovsky",
                     "easy": false
                 }
             ]
@@ -5687,7 +5687,7 @@
         {
             "x": false,
             "id": 35961,
-            "text": "Hành tinh và mặt trăng trong <i>Chiến tranh giữa các vì sao<\/i>",
+            "text": "Hành tinh và mặt trăng trong <i>Star Wars<\/i>",
             "choices": [
                 {
                     "correct": true,
@@ -7343,106 +7343,106 @@
         {
             "x": false,
             "id": 35862,
-            "text": "Thương hiệu thời trang",
+            "text": "Từng là video có nhiều lượt xem nhất trên Youtube",
             "choices": [
                 {
                     "correct": true,
-                    "text": "Armani",
+                    "text": "Touch of Gold",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Versace",
+                    "text": "<i>Myspace The Movie<\/i>",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Fendi",
+                    "text": "Evolution of Dance",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Balenciaga",
+                    "text": "<i>Girlfriend<\/i>",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Yves Saint Laurent",
+                    "text": "Charlie bit my finger",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Dolce & Gabbana",
+                    "text": "<i>Gangnam Style<\/i>",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Close-Up",
+                    "text": "Double Rainbow",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Kit Kat",
+                    "text": "<i>Friday<\/i>",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Porsche",
+                    "text": "<i>The Fox (What Does The Fox Say?)<\/i>",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Rolls-Royce",
+                    "text": "David After Dentist",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Heinz",
+                    "text": "Nyan Cat",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "L\u2019Oréal",
+                    "text": "history of the entire world, i guess",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Baskin Robbins",
+                    "text": "Me at the zoo",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "La Croix",
+                    "text": "The Annoying Orange",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Häagen-Dazs",
+                    "text": "<i>Waka Waka (This Time for Africa)<\/i>",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Circle K",
+                    "text": "<i>Hello<\/i>",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Johnson\u2019s Baby",
+                    "text": "Dramatic Chipmunk",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Olive Garden",
+                    "text": "<i>PPAP (Pen-Pineapple-Apple-Pen)<\/i>",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Shutterstock",
+                    "text": "<i>Too Many Cooks<\/i>",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Ben & Jerry",
+                    "text": "<i>Wrecking Ball<\/i>",
                     "easy": false
                 }
             ]
@@ -8742,81 +8742,81 @@
         {
             "x": false,
             "id": 35799,
-            "text": "Xương người",
+            "text": "Xương ở đầu người",
             "choices": [
                 {
                     "correct": true,
-                    "text": "Maxilla",
+                    "text": "Hàm trên",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Mandible",
+                    "text": "Hàm dưới",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Clavicle",
+                    "text": "Bướm",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Humerus",
+                    "text": "Đỉnh",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Coccyx",
+                    "text": "Đe",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Fibula",
+                    "text": "Búa",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Malleus",
+                    "text": "Sàng",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Metacarpal",
+                    "text": "Chẩm",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Larynx",
+                    "text": "Mác",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Aorta",
+                    "text": "Đòn",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Vas Deferens",
+                    "text": "Chày",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Pharynx",
+                    "text": "Cùng",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Ileum",
+                    "text": "Trụ",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Thymus",
+                    "text": "Quay",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Epidermis",
+                    "text": "Bánh chè",
                     "easy": false
                 }
             ]
@@ -10342,7 +10342,7 @@
                 },
                 {
                     "correct": false,
-                    "text": "Gấu Grinand",
+                    "text": "Gấu trúc đỏ",
                     "easy": false
                 },
                 {
@@ -12045,86 +12045,86 @@
         {
             "x": false,
             "id": 35645,
-            "text": "Phim hoạt hình của Walt Disney Animation Studios",
+            "text": "Người đoạt giải EGOT",
             "choices": [
                 {
                     "correct": true,
-                    "text": "<i>Fantasia<\/i>",
+                    "text": "Robert Lopez",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "<i>Lady and the Tramp<\/i>",
+                    "text": "Scott Rudin",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "<i>The Aristocats<\/i>",
+                    "text": "Mel Brooks",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "<i>The Jungle Book<\/i>",
+                    "text": "Whoopi Goldberg",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "<i>The Fox and the Hound<\/i>",
+                    "text": "Mike Nichols",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "<i>The Black Cauldron<\/i>",
+                    "text": "Marvin Hamlisch",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "<i>The Great Mouse Detective<\/i>",
+                    "text": "Audrey Hepburn",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "<i>Oliver & Company<\/i>",
+                    "text": "John Gielgud",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "<i>The Rescuers<\/i>",
+                    "text": "Rita Moreno",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "<i>The Adventures of Ichabod and Mr. Toad<\/i>",
+                    "text": "Helen Hayes",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "<i>Home on the Range<\/i>",
+                    "text": "Richard Rodgers",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "<i>All Dogs Go To Heaven<\/i>",
+                    "text": "Walt Disney",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "<i>Anastasia<\/i>",
+                    "text": "Frank Sinatra",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "<i>The Secret of NIMH<\/i>",
+                    "text": "James Dean",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "<i>The Land Before Time<\/i>",
+                    "text": "David Bowie",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "<i>Spirit: Stallion of the Cimarron<\/i>",
+                    "text": "Robin Williams",
                     "easy": false
                 }
             ]
@@ -13146,86 +13146,86 @@
         {
             "x": false,
             "id": 35472,
-            "text": "Nhân vật trong <i>Simpsons<\/i> được lồng tiếng bởi Hank Azaria",
+            "text": "Được lồng tiếng bởi Hoàng Khuyết",
             "choices": [
                 {
                     "correct": true,
-                    "text": "Moe Szyslak",
+                    "text": "Satoshi <i>(Pokémon)<\/i>",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Kirk Van Houten",
+                    "text": "Tuxedo Mặt nạ <i>(Thủy thủ Mặt Trăng)<\/i>",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Clancy Wiggum",
+                    "text": "Nobita <i>(Doraemon)<\/i>",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Nick Riviera",
+                    "text": "Sanji <i>(One Piece)<\/i>",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Comic Book Guy",
+                    "text": "Shin <i>(Shin - Cậu bé bút chì)<\/i>",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Apu",
+                    "text": "Tongari <i>(Cuốn từ điển kì bí)<\/i>",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Cletus Spuckler",
+                    "text": "Krillin <i>(7 viên ngọc rồng)<\/i>",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Disco Stu",
+                    "text": "Sai <i>(Naruto)<\/i>",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Duffman",
+                    "text": "Conan <i>(Thám tử lừng danh Conan)<\/i>",
                     "easy": false
                 },
                 {
                     "correct": true,
-                    "text": "Superintendent Chalmers",
+                    "text": "Loke <i>(Fairy Tail)<\/i>",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Ned Flanders",
+                    "text": "Rui <i>(Con nhà giàu)<\/i>",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Waylon Smithers",
+                    "text": "Kuro <i>(Mèo máy Kuro)<\/i>",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Seymour Skinner",
+                    "text": "Chacha <i>(Bubu Chacha)<\/i>",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Lenny Leonard",
+                    "text": "Yukito <i>(Thủ lĩnh thẻ bài)<\/i>",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Mr. Burns",
+                    "text": "Tí Tham Ăn <i>(Làng Xì Trum)<\/i>",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Otto Mann",
+                    "text": "Ohtani <i>(Rắc rối đáng yêu)<\/i>",
                     "easy": false
                 }
             ]
@@ -13287,12 +13287,12 @@
                 },
                 {
                     "correct": false,
-                    "text": "Lê Hồng Phong",
+                    "text": "Nông Đức Mạnh",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Nguyễn Bính",
+                    "text": "Huy Cận",
                     "easy": false
                 },
                 {
@@ -13312,17 +13312,17 @@
                 },
                 {
                     "correct": false,
-                    "text": "Kim Lân",
+                    "text": "Nguyễn Văn Linh",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Phạm Nhật Vượng",
+                    "text": "Lê Duẩn",
                     "easy": false
                 },
                 {
                     "correct": false,
-                    "text": "Phạm Tiến Duật",
+                    "text": "Lê Hồng Phong",
                     "easy": false
                 }
             ]

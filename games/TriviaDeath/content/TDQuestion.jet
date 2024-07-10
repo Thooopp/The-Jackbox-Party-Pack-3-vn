@@ -298,7 +298,7 @@
         {
             "x": false,
             "id": 40972,
-            "text": "Tên của người mẹ yêu dấu của Jason trong <i>Thứ Sáu ngày 13</i>  là gì?",
+            "text": "Người mẹ yêu dấu của Jason trong <i>Friday the 13th</i>  có tên là gì?",
             "pic": false,
             "choices": [
                 {
@@ -340,21 +340,21 @@
         {
             "x": false,
             "id": 40970,
-            "text": "Đâu KHÔNG phải là một trong những kẻ thù thực phẩm đột biến trong trò chơi điện tử <i>BurgerTime<\/i> ?",
+            "text": "Sê-ri <i>Mega Man<\/i>  ở Nhật Bản có tên là gì?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Mr. Pickle"
+                    "text": "<i>Astroman<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "Mr. Bacon"
+                    "text": "<i>Rockman<\/i>"
                 },
                 {
-                    "text": "Mr. Egg"
+                    "text": "<i>Blueman<\/i>"
                 },
                 {
-                    "text": "Mr. Hot Dog"
+                    "text": "<i>Blastman<\/i>"
                 }
             ]
         },
@@ -382,7 +382,7 @@
         {
             "x": false,
             "id": 40968,
-            "text": "Người trưởng thành phải có bao nhiêu chiếc răng nếu họ không bị mất chiếc nào trong quy trình tự nha khoa không thành công?",
+            "text": "Người trưởng thành có bao nhiêu chiếc răng nếu họ không bị mất chiếc nào trong quy trình tự nha khoa không thành công?",
             "pic": false,
             "choices": [
                 {
@@ -445,21 +445,21 @@
         {
             "x": false,
             "id": 40965,
-            "text": "Loại đường nào sau đây ngọt nhất?",
+            "text": "Loại carbohydrate nào sau đây ngọt nhất?",
             "pic": false,
             "choices": [
                 {
-                    "text": "đường nho"
+                    "text": "glucose"
                 },
                 {
                     "correct": true,
-                    "text": "đường trái cây"
+                    "text": "fructose"
                 },
                 {
-                    "text": "đường mía"
+                    "text": "sucrose"
                 },
                 {
-                    "text": "đường mạch nha"
+                    "text": "maltose"
                 }
             ]
         },
@@ -1113,7 +1113,7 @@
                     "text": "38 cm"
                 }
             ]
-        },    
+        },
         {
             "x": false,
             "id": 39018,
@@ -1285,7 +1285,7 @@
         {
             "x": false,
             "id": 38995,
-            "text": "Tiêu đề của <i>Fifty Shades of Grey<\/i>  là gì khi nó là một fan fiction trên Internet?",
+            "text": "Tiêu đề của <i>Fifty Shades of Grey<\/i>  là gì khi là một fan fiction trên Internet?",
             "pic": false,
             "choices": [
                 {
@@ -1772,10 +1772,10 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Người phụ nữ và cái dù<\/i>"
+                    "text": "<i>Woman with a Parasol<\/i>"
                 },
                 {
-                    "text": "<i>Chủ nhật ở công viên với George<\/i>"
+                    "text": "<i>Sunday in the Park with George<\/i>"
                 },
                 {
                     "text": "<i>Đêm đầy sao trên sông Rhone<\/i>"
@@ -1810,21 +1810,21 @@
         {
             "x": false,
             "id": 38878,
-            "text": "Độ dài của số định tuyến trên một tấm séc là bao nhiêu?",
+            "text": "Mã SWIFT có bao nhiêu ký tự?",
             "pic": false,
             "choices": [
                 {
-                    "text": "năm chữ số"
+                    "text": "mười hai ký tự"
                 },
                 {
-                    "text": "bảy chữ số"
+                    "text": "mười ký tự"
                 },
                 {
                     "correct": true,
-                    "text": "chín chữ số"
+                    "text": "tám ký tự"
                 },
                 {
-                    "text": "mười một chữ số"
+                    "text": "sáu ký tự"
                 }
             ]
         },
@@ -3658,7 +3658,7 @@
         {
             "x": false,
             "id": 38335,
-            "text": "Tôi nên chọn loại gọng kính nào cho khuôn mặt vuông của tôi?",
+            "text": "Ta nên chọn loại gọng kính nào cho khuôn mặt vuông của ta?",
             "pic": false,
             "choices": [
                 {
@@ -5443,7 +5443,7 @@
         {
             "x": false,
             "id": 38173,
-            "text": "Tên của nhân vật Minion một mắt là gì?",
+            "text": "Tên của Minion một mắt là gì?",
             "pic": false,
             "choices": [
                 {
@@ -5737,7 +5737,7 @@
         {
             "x": false,
             "id": 39833,
-            "text": "Loài chim nào đang nghỉ ngơi ở bên trái của tôi?",
+            "text": "Loài chim nào đang nghỉ ngơi ở bên trái của ta?",
             "pic": true,
             "choices": [
                 {
@@ -5916,10 +5916,10 @@
                     "text": "\u201cNăm ngón tay ngoan\u201d"
                 },
                 {
-                    "text": "\u201cCon chim non\u210d"
+                    "text": "\u201cCon chim non\u201d"
                 },
                 {
-                    "text": "\u201cChị Ông Nâu và em bé\u201d"
+                    "text": "\u201cChị Ong Nâu và em bé\u201d"
                 }
             ]
         },
@@ -6164,14 +6164,14 @@
                     "text": "965 km"
                 },
                 {
-                    "text": "1,930 km"
+                    "text": "1.930 km"
                 },
                 {
                     "correct": true,
-                    "text": "3,540 km"
+                    "text": "3.540 km"
                 },
                 {
-                    "text": "7,080 km"
+                    "text": "7.080 km"
                 }
             ]
         },
@@ -6315,10 +6315,10 @@
                 },
                 {
                     "correct": true,
-                    "text": "1 trên 1,000"
+                    "text": "1 trên 1.000"
                 },
                 {
-                    "text": "1 trên 10,000"
+                    "text": "1 trên 10.000"
                 }
             ]
         },
@@ -6451,7 +6451,7 @@
         {
             "x": false,
             "id": 38013,
-            "text": "Dilbert làm ở bộ phận gì?",
+            "text": "Dilbert làm nghề gì?",
             "pic": false,
             "choices": [
                 {
@@ -6871,21 +6871,21 @@
         {
             "x": false,
             "id": 37836,
-            "text": "Kỵ sĩ đầu tiên xuống Trái Đất trong Tứ kỵ sĩ Khải Huyền biểu tượng điều gì?",
+            "text": "Vào tháng 2 năm 2011, Toyota tuyên bố danh từ số nhiều cho Prius là gì?",
             "pic": false,
             "choices": [
                 {
-                    "text": "cái chết"
+                    "text": "Prien"
                 },
                 {
-                    "text": "nạn đói"
+                    "text": "Priuses"
                 },
                 {
-                    "text": "chiến tranh"
+                    "text": "Prium"
                 },
                 {
                     "correct": true,
-                    "text": "bệnh dịch"
+                    "text": "Prii"
                 }
             ]
         },
@@ -7816,18 +7816,18 @@
         {
             "x": false,
             "id": 37486,
-            "text": "Tên chú ngựa của Woody trong <i>Toy Story<\/i>  là gì?",
+            "text": "Tên chú ngựa của Lucky Luke là gì?",
             "pic": false,
             "choices": [
                 {
                     "text": "Trigger"
                 },
                 {
-                    "text": "Ranger"
+                    "text": "Lone Ranger"
                 },
                 {
                     "correct": true,
-                    "text": "Bullseye"
+                    "text": "Jolly Jumper"
                 },
                 {
                     "text": "Seabiscuit"
@@ -8194,21 +8194,21 @@
         {
             "x": false,
             "id": 37461,
-            "text": "Ai đã viết cuốn sách dành cho trẻ em có tựa đề <i>If Roast Beef Could Fly<\/i> ?",
+            "text": "Ai đã viết cuốn sách <i>Không gia đình<\/i> ?",
             "pic": false,
             "choices": [
                 {
-                    "text": "David Letterman"
+                    "text": "Grabiel Garcia Marquez"
                 },
                 {
-                    "text": "Stephen Colbert"
+                    "text": "Edmondo De Amicis"
                 },
                 {
-                    "text": "Jon Stewart"
+                    "text": "Victor Hugo"
                 },
                 {
                     "correct": true,
-                    "text": "Jay Leno"
+                    "text": "Hector Malot"
                 }
             ]
         },
@@ -8971,7 +8971,7 @@
         {
             "x": false,
             "id": 37287,
-            "text": "Tượng Nữ thần Tự do có bao nhiêu gai trên vương miện của cô ấy?",
+            "text": "Tượng Nữ thần Tự do có bao nhiêu gai trên vương miện?",
             "pic": false,
             "choices": [
                 {
@@ -14393,17 +14393,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "200,000 đồng"
+                    "text": "200.000 đồng"
                 },
                 {
-                    "text": "100,000 đồng"
+                    "text": "100.000 đồng"
                 },
                 {
                     "correct": true,
-                    "text": "50,000 đồng"
+                    "text": "50.000 đồng"
                 },
                 {
-                    "text": "20,000 đồng"
+                    "text": "20.000 đồng"
                 }
             ]
         },
@@ -14788,7 +14788,7 @@
         {
             "x": false,
             "id": 32735,
-            "text": "Loại gia vị nào đến từ nhụy khô của một bông hoa?",
+            "text": "Loại gia vị nào đến từ nhụy khô của bông hoa?",
             "pic": false,
             "choices": [
                 {
@@ -15439,21 +15439,21 @@
         {
             "x": false,
             "id": 32664,
-            "text": "Tên của loài cá sẽ bơi lên lỗ niệu đạo của ngươi là gì?",
+            "text": "Diện tích bề mặt da người trưởng thành trung bình là bao nhiêu?",
             "pic": false,
             "choices": [
                 {
-                    "text": "zungaro"
+                    "text": "3,5 m²"
                 },
                 {
-                    "text": "capybara"
+                    "text": "3,0 m²"
                 },
                 {
-                    "text": "neon tetra"
+                    "text": "2,5 m²"
                 },
                 {
                     "correct": true,
-                    "text": "candiru"
+                    "text": "2,0 m²"
                 }
             ]
         },
@@ -16636,7 +16636,7 @@
         {
             "x": false,
             "id": 32559,
-            "text": "Có bao nhiêu chiếc đồng hồ trong bức tranh nổi tiếng <i>Sự dai dẳng của ký ức<\/i>  của Dali?",
+            "text": "Có bao nhiêu chiếc đồng hồ trong bức tranh nổi tiếng <i>The Persistence of Memory<\/i>  của Dali?",
             "pic": false,
             "choices": [
                 {
@@ -18404,17 +18404,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "giọng gió"
+                    "text": "falsetto"
                 },
                 {
                     "correct": true,
-                    "text": "giọng nam cao"
+                    "text": "tenor"
                 },
                 {
-                    "text": "giọng nữ cao"
+                    "text": "soprano"
                 },
                 {
-                    "text": "giọng nam trung"
+                    "text": "baritone"
                 }
             ]
         },
@@ -19034,7 +19034,7 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "Bắc Dakota"
+                    "text": "North Dakota"
                 },
                 {
                     "correct": true,
