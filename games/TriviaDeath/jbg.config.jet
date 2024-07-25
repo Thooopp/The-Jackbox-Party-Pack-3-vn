@@ -9,7 +9,7 @@
 	"videoplayer":"true",
 	"supportsMouse":"true",
 	"gameName":"TriviaDeath",
-	"joinUrl":"jbvn.vercel.app",
+	"joinUrl":"jackbox.io.vn",
 	"serverUrl":"blobcast.jackboxgames.com",
 	"supportsJoysticksHotplugging":"true",
 	"uaAppName":"TriviaDeath",
