@@ -2013,7 +2013,7 @@
                     "text": "một vị luật sư 78 tuổi"
                 },
                 {
-                    "text": "một kế toán viên 82 tuổi"
+                    "text": "một kế toán 82 tuổi"
                 }
             ]
         },
@@ -2671,21 +2671,21 @@
         {
             "x": false,
             "id": 38641,
-            "text": "DC Comics đầu tiên được xuất bản khi nào?",
+            "text": "Sách Kỷ lục Guinness đầu tiên được phát hành khi nào?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "1937"
-                },
-                {
-                    "text": "1943"
-                },
-                {
-                    "text": "1949"
-                },
-                {
                     "text": "1955"
+                },
+                {
+                    "text": "1965"
+                },
+                {
+                    "text": "1975"
+                },
+                {
+                    "text": "1985"
                 }
             ]
         },
@@ -2874,25 +2874,25 @@
                 },
                 {
                     "correct": true,
-                    "text": "sau tàu"
+                    "text": "đuôi tàu"
                 }
             ]
         },
         {
             "x": false,
             "id": 38455,
-            "text": "Theo truyền thống, những nhà vô địch Công thức 1 sẽ xịt gì ở bục nhận giải?",
+            "text": "Theo truyền thống, những nhà vô địch Indianapolis 500 sẽ uống gì sau khi thắng một cuộc đua lớn?",
             "pic": false,
             "choices": [
                 {
-                    "text": "nước ép trái cây"
+                    "text": "nước ép nho"
                 },
                 {
                     "correct": true,
-                    "text": "rượu sâm panh"
+                    "text": "sữa"
                 },
                 {
-                    "text": "sữa bò"
+                    "text": "champagne"
                 },
                 {
                     "text": "formaldehyde"
@@ -3196,21 +3196,21 @@
         {
             "x": false,
             "id": 38435,
-            "text": "Các chấm trên Domino được gọi là gì?",
+            "text": "Quân cờ hình nhân gỗ nhỏ xíu trong board game Carcassone được gọi là gì?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Yap"
+                    "text": "Youple"
                 },
                 {
-                    "text": "Pep"
+                    "text": "Meemen"
                 },
                 {
-                    "text": "Yop"
+                    "text": "Youman"
                 },
                 {
                     "correct": true,
-                    "text": "Pip"
+                    "text": "Meeple"
                 }
             ]
         },
@@ -3238,7 +3238,7 @@
         {
             "x": false,
             "id": 38433,
-            "text": "Có bao nhiêu mèo nổ trong một bộ bài tiêu chuẩn của trò chơi bài <i>Mèo nổ<\/i> ?",
+            "text": "Có bao nhiêu mèo nổ trong một bộ bài tiêu chuẩn của trò chơi bài <i>Exploding Kittens<\/i> ?",
             "pic": false,
             "choices": [
                 {
@@ -4582,21 +4582,21 @@
         {
             "x": false,
             "id": 38240,
-            "text": "Cha đẻ của ai là \u201cSimon\u201d trong nhà xuất bản Simon & Schuster?",
+            "text": "Jane nào nổi tiếng với các bài nghiên cứu về tinh tinh?",
             "pic": false,
             "choices": [
                 {
                     "correct": true,
-                    "text": "ca sĩ Carly Simon"
+                    "text": "Jane Goodall"
                 },
                 {
-                    "text": "nhạc sĩ Paul Simon"
+                    "text": "Jane Austen"
                 },
                 {
-                    "text": "Thượng nghị sĩ Paul Simon"
+                    "text": "Jane Addams"
                 },
                 {
-                    "text": "chương trình Simon & Simon"
+                    "text": "Jane Fonda"
                 }
             ]
         },
@@ -4624,7 +4624,7 @@
         {
             "x": false,
             "id": 38238,
-            "text": "Ai đã tự chặt chân mình bằng một chiếc cưa sắt cùn để thoát khỏi dây xích ở mắt cá chân ở cuối phim <i>Saw<\/i> ?",
+            "text": "Ai đã tự cưa chân mình bằng chiếc cưa sắt cùn để thoát khỏi dây xích ở chân ở cuối phim <i>Saw<\/i> ?",
             "pic": false,
             "choices": [
                 {
@@ -4771,7 +4771,7 @@
         {
             "x": false,
             "id": 38231,
-            "text": "Đâu KHÔNG là một trong ba chú gián trong <i>Oggy và những chú gián tinh nghịch<\/i> ?",
+            "text": "Đâu KHÔNG phải là một trong ba chú gián trong <i>Oggy và những chú gián tinh nghịch<\/i> ?",
             "pic": false,
             "choices": [
                 {
@@ -4813,7 +4813,7 @@
         {
             "x": false,
             "id": 38228,
-            "text": "Trong bộ phim <i>Pee Wee\u2019s Big Adventure<\/i> , Pee Wee quá giang từ hồn ma của tài xế lái xe tải đã chết có tên là\u2026",
+            "text": "Trong bộ phim <i>Pee Wee\u2019s Big Adventure<\/i> , Pee Wee quá giang từ hồn ma của tài xế lái xe tải có tên là\u2026",
             "pic": false,
             "choices": [
                 {
@@ -16713,7 +16713,7 @@
                     "text": "<i>Viên trân châu<\/i>"
                 },
                 {
-                    "text": "<i>Moby Dick - Cá voi trắng<\/i>"
+                    "text": "<i>Moby Dick<\/i>"
                 }
             ]
         },
@@ -16913,7 +16913,7 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "PageRank"
+                    "text": "Catpile"
                 },
                 {
                     "text": "Larry\u2019s Engine"
@@ -17035,21 +17035,21 @@
         {
             "x": false,
             "id": 32515,
-            "text": "Nick Nolte đã từng đóng vai tổng thống Mỹ nào?",
+            "text": "Tên của ứng cử viên độc lập tranh cử tổng thống Hoa Kỳ vào năm 2016 là gì?",
             "pic": false,
             "choices": [
                 {
-                    "text": "George W. Bush"
+                    "text": "Uranus"
                 },
                 {
-                    "text": "Andrew Jackson"
+                    "text": "Yo Mama"
                 },
                 {
                     "correct": true,
-                    "text": "Thomas Jefferson"
+                    "text": "Deez Nuts"
                 },
                 {
-                    "text": "Richard Nixon"
+                    "text": "Issac Cox"
                 }
             ]
         },
@@ -18400,7 +18400,7 @@
         {
             "x": false,
             "id": 32372,
-            "text": "Luciano Pavarotti là ca sĩ gì?",
+            "text": "Luciano Pavarotti là ca sĩ hát giọng gì?",
             "pic": false,
             "choices": [
                 {
