@@ -2679,13 +2679,13 @@
                     "text": "1955"
                 },
                 {
+                    "text": "1960"
+                },
+                {
                     "text": "1965"
                 },
                 {
-                    "text": "1975"
-                },
-                {
-                    "text": "1985"
+                    "text": "1970"
                 }
             ]
         },
@@ -2965,7 +2965,7 @@
         {
             "x": false,
             "id": 38449,
-            "text": "Đâu không phải là một trong ba hạng được USDA sử dụng để đo chất lượng thịt bò?",
+            "text": "Đâu không phải là một trong ba hạng được USDA sử dụng để đánh giá chất lượng thịt bò?",
             "pic": false,
             "choices": [
                 {
@@ -3574,7 +3574,7 @@
         {
             "x": false,
             "id": 38415,
-            "text": "Người nổi tiếng nào thực sự có tên đệm là \u201cMungo\u201d?",
+            "text": "Người nổi tiếng nào có tên đệm là \u201cMungo\u201d?",
             "pic": false,
             "choices": [
                 {
@@ -6647,14 +6647,14 @@
                     "text": "100"
                 },
                 {
-                    "text": "1,000"
+                    "text": "1.000"
                 },
                 {
                     "correct": true,
-                    "text": "10,000"
+                    "text": "10.000"
                 },
                 {
-                    "text": "100,000"
+                    "text": "100.000"
                 }
             ]
         },
@@ -8362,7 +8362,7 @@
         {
             "x": false,
             "id": 37450,
-            "text": "Tên của tù nhân nằm cạnh phòng giam của Hannibal Lecter trong <i>Sự im lặng của bầy cừu</i> là gì?",
+            "text": "Tên của tù nhân nằm cạnh phòng giam của Hannibal Lecter trong <i>Sự im lặng của bầy cừu</i>  là gì?",
             "pic": false,
             "choices": [
                 {
@@ -20819,17 +20819,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "$25,000"
+                    "text": "$25.000"
                 },
                 {
-                    "text": "$500,000"
+                    "text": "$500.000"
                 },
                 {
-                    "text": "$1,750,000"
+                    "text": "$1.750.000"
                 },
                 {
                     "correct": true,
-                    "text": "$6,000,000"
+                    "text": "$6.000.000"
                 }
             ]
         },
@@ -21172,7 +21172,7 @@
         {
             "x": false,
             "id": 32050,
-            "text": "Cancun! Nó nằm ở đâu tại Mexico?",
+            "text": "Cancun! Nó nằm phía nào ở Mexico?",
             "pic": false,
             "choices": [
                 {
@@ -23766,7 +23766,7 @@
                     "text": "Paris, Pháp"
                 },
                 {
-                    "text": "Barcelona, ​Tây Ban Nha"
+                    "text": "Barcelona, Tây Ban Nha"
                 },
                 {
                     "text": "Damascus, Syria"
