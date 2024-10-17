@@ -6871,7 +6871,7 @@
         {
             "x": false,
             "id": 37836,
-            "text": "Vào tháng 2 năm 2011, Toyota tuyên bố danh từ số nhiều cho Prius là gì?",
+            "text": "Theo Toyota, danh từ số nhiều cho Prius là gì?",
             "pic": false,
             "choices": [
                 {
@@ -16829,7 +16829,7 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Kế hoạch lớn<\/i>"
+                    "text": "<i>Vũ hội lớn<\/i>"
                 },
                 {
                     "correct": true,
