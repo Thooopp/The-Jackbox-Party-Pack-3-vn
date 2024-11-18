@@ -3406,7 +3406,7 @@
         {
             "x": true,
             "id": 38424,
-            "text": "Quốc gia nào được đại diện bởi tên miền URL \u201c.vn\u201d?",
+            "text": "Quốc gia nào được đại diện bởi hậu tố URL \u201c.vn\u201d?",
             "pic": false,
             "choices": [
                 {
@@ -3532,7 +3532,7 @@
         {
             "x": false,
             "id": 38417,
-            "text": "\u201cPenny Black\u201d là tên của gì đầu tiên trên thế giới?",
+            "text": "\u201cPenny Black\u201d là tên của\u2026 đầu tiên trên thế giới",
             "pic": false,
             "choices": [
                 {
@@ -3630,7 +3630,7 @@
                     "text": "Các phi hành gia thực sự đang ở trên Trái Đất"
                 },
                 {
-                    "text": "Đó thực sự là một cuốn sách dạy nấu ăn"
+                    "text": "Đó thực chất là một cuốn sách dạy nấu ăn"
                 }
             ]
         },
@@ -3725,7 +3725,7 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "khoảng 600 km từ TP.HCM"
+                    "text": "khoảng 500 km từ TP.HCM"
                 },
                 {
                     "text": "khoảng 300 km từ Huế"
@@ -3773,11 +3773,11 @@
                     "text": "dái tai"
                 },
                 {
-                    "text": "đầu ti"
+                    "text": "núm vú"
                 },
                 {
                     "correct": true,
-                    "text": "đầu lông mày"
+                    "text": "lông mày"
                 }
             ]
         },
@@ -4771,21 +4771,21 @@
         {
             "x": false,
             "id": 38231,
-            "text": "Đâu KHÔNG phải là một trong ba chú gián trong <i>Oggy và những chú gián tinh nghịch<\/i> ?",
+            "text": "Ai KHÔNG phải là người do John Nash tưởng tượng ra trong <i>A Beautiful Mind<\/i> ?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Marky"
+                    "text": "Charles Herman"
                 },
                 {
-                    "text": "Joey"
+                    "text": "Marcee"
                 },
                 {
                     "correct": true,
-                    "text": "Henry"
+                    "text": "Martin Hansen"
                 },
                 {
-                    "text": "Dee Dee"
+                    "text": "William Parcher"
                 }
             ]
         },
@@ -12797,17 +12797,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "800"
+                    "text": "3200"
                 },
                 {
-                    "text": "1600"
-                },
-                {
-                    "correct": true,
                     "text": "2400"
                 },
                 {
-                    "text": "3200"
+                    "correct": true,
+                    "text": "1600"
+                },
+                {
+                    "text": "800"
                 }
             ]
         },
@@ -13570,7 +13570,7 @@
         {
             "x": false,
             "id": 32884,
-            "text": "Bộ phim cuối cùng có sự tham gia của huyền thoại Orson Welles là gì?",
+            "text": "Bộ phim cuối cùng của huyền thoại Orson Welles là gì?",
             "pic": false,
             "choices": [
                 {
@@ -13948,7 +13948,7 @@
         {
             "x": false,
             "id": 32848,
-            "text": "Nhân vật do Colin Firth đóng vai đã học ngôn ngữ nào trong <i>Love Actually</i>  để có thể thổ lộ tình yêu của mình?",
+            "text": "Nhân vật do Colin Firth đóng vai trong <i>Love Actually</i>  đã học ngôn ngữ nào để có thể thổ lộ tình yêu của mình?",
             "pic": false,
             "choices": [
                 {
@@ -14204,17 +14204,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "425,600"
+                    "text": "425.600"
                 },
                 {
                     "correct": true,
-                    "text": "525,600"
+                    "text": "525.600"
                 },
                 {
-                    "text": "528,700"
+                    "text": "528.700"
                 },
                 {
-                    "text": "814,500"
+                    "text": "814.500"
                 }
             ]
         },
@@ -14389,21 +14389,21 @@
         {
             "x": false,
             "id": 32792,
-            "text": "Tờ tiền mệnh giá nào được phát hành đầu tiên?",
+            "text": "Filet mignon và strip steak là một phần của loại steak lớn hơn nào?",
             "pic": false,
             "choices": [
                 {
-                    "text": "200.000 đồng"
+                    "text": "New York strip"
                 },
                 {
-                    "text": "100.000 đồng"
+                    "text": "ribeye"
                 },
                 {
                     "correct": true,
-                    "text": "50.000 đồng"
+                    "text": "t-bone"
                 },
                 {
-                    "text": "20.000 đồng"
+                    "text": "sirloin"
                 }
             ]
         },
@@ -14494,7 +14494,7 @@
         {
             "x": false,
             "id": 32767,
-            "text": "Jorge Mario Bergoglio được biết đến nhiều hơn với tư cách là ai?",
+            "text": "Jorge Mario Bergoglio được biết đến nhiều hơn với cái tên nào?",
             "pic": false,
             "choices": [
                 {
@@ -15124,7 +15124,7 @@
         {
             "x": false,
             "id": 32695,
-            "text": "Nhân vật nào trong <i>Garfield<\/i>  là \u201cThe World\u2019s Cutest Kitten\u201d(Chú mèo con dễ thương nhất thế giới)?",
+            "text": "Nhân vật nào trong <i>Garfield<\/i>  là \u201cChú mèo con dễ thương nhất thế giới\u201d?",
             "pic": false,
             "choices": [
                 {
@@ -15149,17 +15149,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "1,000"
+                    "text": "1.000"
                 },
                 {
                     "correct": true,
-                    "text": "10,000"
+                    "text": "10.000"
                 },
                 {
-                    "text": "100,000"
+                    "text": "100.000"
                 },
                 {
-                    "text": "1,000,000"
+                    "text": "1.000.000"
                 }
             ]
         },
@@ -15313,7 +15313,7 @@
         {
             "x": false,
             "id": 32675,
-            "text": "Thứ chết người gì là blue krait?",
+            "text": "Blue krait là thứ nguy hiểm nào?",
             "pic": false,
             "choices": [
                 {
@@ -15348,7 +15348,7 @@
                     "text": "Chiến tranh Anh-Mỹ 1812"
                 },
                 {
-                    "text": "Chiến tranh Việt Nam"
+                    "text": "Chiến tranh Đông Dương lần hai"
                 }
             ]
         },
@@ -15642,14 +15642,14 @@
                 },
                 {
                     "correct": true,
-                    "text": "thịt"
+                    "text": "chế biến thịt"
                 }
             ]
         },
         {
             "x": false,
             "id": 32637,
-            "text": "Ken Jennings đã thắng bao nhiêu trận liên tiếp trong <i>Jeopardy!<\/i>  vào năm 2004?",
+            "text": "Ken Jennings đã thắng bao nhiêu liên tiếp bao nhiêu lần trong <i>Jeopardy!<\/i>  vào năm 2004?",
             "pic": false,
             "choices": [
                 {
@@ -15901,7 +15901,7 @@
         {
             "x": false,
             "id": 32617,
-            "text": "Chú hề kinh dị trong <i>Hamlet<\/i>  là ai?",
+            "text": "Ai là chú hề rùng rợn trong <i>Hamlet<\/i> ?",
             "pic": false,
             "choices": [
                 {
@@ -16048,7 +16048,7 @@
         {
             "x": false,
             "id": 32605,
-            "text": "Chính xác thì khí nào là khí cười?",
+            "text": "Khí nào chính xác là khí cười?",
             "pic": false,
             "choices": [
                 {
@@ -16216,7 +16216,7 @@
         {
             "x": false,
             "id": 32589,
-            "text": "Công ty ô tô nào sản xuất một chiếc xe điện có tên là Leaf?",
+            "text": "Công ty ô tô nào sản xuất mẫu xe điện có tên là Leaf?",
             "pic": false,
             "choices": [
                 {
@@ -16258,7 +16258,7 @@
         {
             "x": false,
             "id": 32587,
-            "text": "Tên của loại khoáng sản được thèm muốn trong phim <i>Avatar<\/i>  là gì?",
+            "text": "Tên của loại khoáng sản quý giá trong phim <i>Avatar<\/i>  là gì?",
             "pic": false,
             "choices": [
                 {
@@ -16405,7 +16405,7 @@
         {
             "x": false,
             "id": 32573,
-            "text": "Nhãn hiệu bourbon nào có một con ngựa kim loại nhỏ trên nắp?",
+            "text": "Thương hiệu bourbon nào có một con ngựa kim loại nhỏ trên nắp?",
             "pic": false,
             "choices": [
                 {
@@ -16447,7 +16447,7 @@
         {
             "x": false,
             "id": 32571,
-            "text": "Chương trình hoạt hình nào Dan Harmon đã đồng sáng tạo?",
+            "text": "Chương trình hoạt hình nào do Dan Harmon đồng sáng tạo?",
             "pic": false,
             "choices": [
                 {
@@ -16552,7 +16552,7 @@
         {
             "x": false,
             "id": 32566,
-            "text": "Khi ta thực hiện Thử thách xô nước đá vào năm 2014, ta đã quyên góp tiền vì mục đích gì?",
+            "text": "Khi ta thực hiện Thử thách Xô nước đá vào năm 2014, ta đã gây quỹ vì mục đích gì?",
             "pic": false,
             "choices": [
                 {
@@ -16993,14 +16993,14 @@
         {
             "x": false,
             "id": 32519,
-            "text": "Trong <i>127 Hours<\/i> , Aron Ralston đã chặt đứt cánh tay phải của anh ấy ở bang nào?",
+            "text": "Trong <i>127 Hours<\/i> , Aron Ralston đã chặt đứt cánh tay phải của mình ở bang nào?",
             "pic": false,
             "choices": [
                 {
                     "text": "Nevada"
                 },
                 {
-                    "text": "Nam Dakota"
+                    "text": "South Dakota"
                 },
                 {
                     "correct": true,
@@ -17014,7 +17014,7 @@
         {
             "x": false,
             "id": 32518,
-            "text": "Đã bao nhiêu năm trôi qua giữa năm <i>Mad Max: Beyond Thunderdome<\/i>  và <i>Mad Max: Fury Road<\/i>  ra mắt?",
+            "text": "Khoảng cách thời gian giữa năm phát hành <i>Mad Max: Beyond Thunderdome<\/i>  và <i>Mad Max: Fury Road<\/i>  bao lâu?",
             "pic": false,
             "choices": [
                 {
@@ -17035,21 +17035,21 @@
         {
             "x": false,
             "id": 32515,
-            "text": "Tên của ứng cử viên độc lập tranh cử tổng thống Hoa Kỳ vào năm 2016 là gì?",
+            "text": "Tổng thống Mỹ nào đã từng ói lên Thủ tướng Nhật Bản?",
             "pic": false,
             "choices": [
                 {
-                    "text": "Uranus"
+                    "text": "Ronald Reagam"
                 },
                 {
-                    "text": "Yo Mama"
+                    "text": "Richard Nixon"
                 },
                 {
                     "correct": true,
-                    "text": "Deez Nuts"
+                    "text": "George H. W. Bush"
                 },
                 {
-                    "text": "Issac Cox"
+                    "text": "Lyndon B. Johnson"
                 }
             ]
         },
@@ -17224,7 +17224,7 @@
         {
             "x": false,
             "id": 32493,
-            "text": "Bức tượng con vật nào ở trên Cổng Brandenburger, biểu tượng của Berlin?",
+            "text": "Bức tượng con vật nào ở trên Cổng Brandenburger nổi tiếng ở Berlin?",
             "pic": false,
             "choices": [
                 {
@@ -17539,7 +17539,7 @@
         {
             "x": false,
             "id": 32460,
-            "text": "Nơi nổi tiếng nào sau đây thật ra là một ngôi mộ khổng lồ?",
+            "text": "Địa danh nổi tiếng nào sau đây thực chất là một lăng mộ khổng lồ?",
             "pic": false,
             "choices": [
                 {
@@ -17838,13 +17838,13 @@
             "choices": [
                 {
                     "correct": true,
-                    "text": "Biển Caribbean"
+                    "text": "Caribbean"
                 },
                 {
                     "text": "Ấn Độ Dương"
                 },
                 {
-                    "text": "Biển Địa Trung Hải"
+                    "text": "Địa Trung Hải"
                 },
                 {
                     "text": "Vịnh Mexico"
@@ -18064,7 +18064,7 @@
         {
             "x": false,
             "id": 32410,
-            "text": "Vào năm 2005, Angela Merkel được bầu cử trở thành nữ... đầu tiên của Đức",
+            "text": "Vào năm 2005, Angela Merkel được bầu cử làm người phụ nữ đầu tiên giữ chức vụ gì tại Đức",
             "pic": false,
             "choices": [
                 {
@@ -18173,7 +18173,7 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "Bắc Đẩu"
+                    "text": "Đại Hùng"
                 },
                 {
                     "text": "Kim Ngưu"
@@ -18841,7 +18841,7 @@
         {
             "x": false,
             "id": 32337,
-            "text": "Tòa án Dị giáo Tây Ban Nha kéo dài bao lâu?",
+            "text": "Tòa án Dị giáo Tây Ban Nha kéo dài khoảng bao lâu?",
             "pic": false,
             "choices": [
                 {
@@ -19240,7 +19240,7 @@
         {
             "x": false,
             "id": 32290,
-            "text": "Điều gì làm cho một ly martini trở thành \u201cdirty martini\u201d?",
+            "text": "Điều gì làm cho một ly martini \u201cdirty\u201d?",
             "pic": false,
             "choices": [
                 {
@@ -19282,7 +19282,7 @@
         {
             "x": false,
             "id": 32282,
-            "text": "Có bao nhiêu chặng trong Tour de France?",
+            "text": "Có bao nhiêu chặng đua trong Tour de France?",
             "pic": false,
             "choices": [
                 {
@@ -19429,7 +19429,7 @@
         {
             "x": false,
             "id": 32265,
-            "text": "Điều gì đã khiến vận động viên chạy Usain Bolt vấp ngã ngay sau khi giành huy chương vàng 200m vào năm 2015?",
+            "text": "Điều gì khiến vận động viên chạy nước rút Usain Bolt bị vấp ngã ngay sau khi giành huy chương vàng 200m vào năm 2015?",
             "pic": false,
             "choices": [
                 {
@@ -19440,7 +19440,7 @@
                     "text": "một người đàn ông đi Segway"
                 },
                 {
-                    "text": "một chiếc gậy tự sướng"
+                    "text": "gậy tự sướng"
                 },
                 {
                     "text": "một con sóc"
@@ -19580,17 +19580,17 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "8 năm"
+                    "text": "16 năm"
                 },
                 {
-                    "text": "10 năm"
+                    "text": "14 năm"
                 },
                 {
                     "text": "12 năm"
                 },
                 {
                     "correct": true,
-                    "text": "14 năm"
+                    "text": "10 năm"
                 }
             ]
         },
@@ -19723,7 +19723,7 @@
         {
             "x": false,
             "id": 32227,
-            "text": "Bleeker Street là một phần của khu lân cận nổi tiếng nào ở New York?",
+            "text": "Bleeker Street là một phần của khu phố nổi tiếng nào ở New York?",
             "pic": false,
             "choices": [
                 {
@@ -19807,7 +19807,7 @@
         {
             "x": false,
             "id": 32219,
-            "text": "Madonna bắt đầu bước vào giai đoạn nữ cao bồi khi nào?",
+            "text": "Madonna bắt đầu bước vào giai đoạn phong cách cao bồi khi nào?",
             "pic": false,
             "choices": [
                 {
@@ -19849,7 +19849,7 @@
         {
             "x": false,
             "id": 32215,
-            "text": "Jonathan Taylor Thomas bước sang TUỔI NÀO vào năm 2016?",
+            "text": "Jonathan Taylor Thomas bước sang TUỔI BAO NHIÊU vào năm 2016?",
             "pic": false,
             "choices": [
                 {
@@ -19891,7 +19891,7 @@
         {
             "x": false,
             "id": 32201,
-            "text": "Ngươi có biết có khoảng bao nhiêu calo trong một ly Venti Caramel Frappuccino của Starbucks không?!",
+            "text": "Ngươi có biết một ly Venti Caramel Frappuccino của Starbucks có bao nhiêu calo không?!",
             "pic": false,
             "choices": [
                 {
@@ -19954,7 +19954,7 @@
         {
             "x": false,
             "id": 32196,
-            "text": "Tên của con khỉ của Nhà thám hiểm Dora là gì?",
+            "text": "Tên của chú khỉ của Nhà thám hiểm Dora là gì?",
             "pic": false,
             "choices": [
                 {
@@ -19975,7 +19975,7 @@
         {
             "x": false,
             "id": 32195,
-            "text": "Phong cách \u201cSteampunk\u201d thường lấy bối cảnh ở khoảng thời gian nào?",
+            "text": "Phong cách \u201cSteampunk\u201d thường lấy bối cảnh ở thời kỳ nào?",
             "pic": false,
             "choices": [
                 {
@@ -20010,7 +20010,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "diều mướp"
+                    "text": "diều lửa"
                 }
             ]
         },
@@ -20038,7 +20038,7 @@
         {
             "x": false,
             "id": 32184,
-            "text": "Công ty thời trang nào được biết đến với họa tiết hình sọc vuông?",
+            "text": "Công ty thời trang nào được biết đến với họa tiết tartan?",
             "pic": false,
             "choices": [
                 {
@@ -20231,7 +20231,7 @@
             "pic": false,
             "choices": [
                 {
-                    "text": "cut (vết cắt)"
+                    "text": "cut (giác cắt)"
                 },
                 {
                     "text": "color (màu sắc)"
@@ -20416,7 +20416,7 @@
         {
             "x": false,
             "id": 32137,
-            "text": "Nhãn rượu whiskey Johnnie Walker nào được ủ 12 năm?",
+            "text": "Loại rượu whiskey Johnnie Walker nào được ủ 12 năm?",
             "pic": false,
             "choices": [
                 {
@@ -20941,7 +20941,7 @@
         {
             "x": false,
             "id": 32077,
-            "text": "Twitter có mã cổ phiếu là gì trên Sàn Giao dịch Chứng khoán New York?",
+            "text": "Mã chứng khoán của Twitter trên Sở Giao dịch Chứng khoán New York là gì?",
             "pic": false,
             "choices": [
                 {
@@ -20983,7 +20983,7 @@
         {
             "x": false,
             "id": 32075,
-            "text": "Có bao nhiêu ngôi sao tạo nên nhóm sao Bắc Đẩu?",
+            "text": "Có bao nhiêu ngôi sao tạo nên chòm sao Đại Hùng?",
             "pic": false,
             "choices": [
                 {
@@ -21361,7 +21361,7 @@
         {
             "x": false,
             "id": 32026,
-            "text": "Giải gì ở Canada tương đương với giải Grammy?",
+            "text": "Giải thưởng tương đương với Grammy ở Canada là gì?",
             "pic": false,
             "choices": [
                 {
@@ -21571,21 +21571,21 @@
         {
             "x": false,
             "id": 32004,
-            "text": "\u201cBye Felicia\u201d bắt nguồn từ đâu?",
+            "text": "\u201cWhy So Serious?\u201d bắt nguồn từ đâu?",
             "pic": false,
             "choices": [
                 {
-                    "text": "<i>Robocop<\/i>"
+                    "text": "<i>Inception<\/i>"
                 },
                 {
-                    "text": "<i>Snakes On A Plane<\/i>"
+                    "text": "<i>Fight Club<\/i>"
                 },
                 {
-                    "text": "<i>Goodfellas<\/i>"
+                    "text": "<i>Pulp Fiction<\/i>"
                 },
                 {
                     "correct": true,
-                    "text": "<i>Friday<\/i>"
+                    "text": "<i>The Dark Knight<\/i>"
                 }
             ]
         },
@@ -21613,7 +21613,7 @@
         {
             "x": false,
             "id": 32001,
-            "text": "Ai là cầu thủ NBA đứng đầu về số điểm ghi được của mọi thời đại?",
+            "text": "Ai là cầu thủ NBA ghi nhiều điểm nhất mọi thời đại?",
             "pic": false,
             "choices": [
                 {
@@ -21666,7 +21666,7 @@
                     "text": "ban đỏ"
                 },
                 {
-                    "text": "dịch hạch thể hạch"
+                    "text": "dịch hạch"
                 },
                 {
                     "text": "đau mắt đỏ"
@@ -21683,10 +21683,10 @@
                     "text": "rau mùi"
                 },
                 {
-                    "text": "kinh giới cay"
+                    "text": "kinh giới"
                 },
                 {
-                    "text": "cỏ xạ hương"
+                    "text": "xạ hương"
                 },
                 {
                     "correct": true,
@@ -21823,7 +21823,7 @@
         {
             "x": false,
             "id": 31980,
-            "text": "Phần thòng lọng mà ngươi đeo quanh cổ được gọi là gì?",
+            "text": "Phần thòng lọng mà ngươi luồn qua đầu được gọi là gì?",
             "pic": false,
             "choices": [
                 {
@@ -21865,7 +21865,7 @@
         {
             "x": false,
             "id": 31976,
-            "text": "Nhân vật Disney nào có râu trên khuôn mặt?",
+            "text": "Nhân vật Disney nào có râu?",
             "pic": false,
             "choices": [
                 {
@@ -21893,14 +21893,14 @@
                     "text": "Huy Tuấn"
                 },
                 {
-                    "text": "Tuấn Khanh"
+                    "text": "Trần Tiến"
                 },
                 {
                     "correct": true,
                     "text": "Trần Lập"
                 },
                 {
-                    "text": "Tùng Dương"
+                    "text": "Phạm Anh Khoa"
                 }
             ]
         },
@@ -21991,7 +21991,7 @@
         {
             "x": false,
             "id": 31965,
-            "text": "Ai đang cho người khác xem phần nghịch ngợm của mình?",
+            "text": "Ai để lộ phần nghịch ngợm của mình?",
             "pic": false,
             "choices": [
                 {
@@ -22047,7 +22047,7 @@
                 },
                 {
                     "correct": true,
-                    "text": "1,44 m"
+                    "text": "1,47 m"
                 }
             ]
         },
@@ -22201,7 +22201,7 @@
         {
             "x": false,
             "id": 31941,
-            "text": "Ai là người Việt đầu tiên xuất hiện trên <i>Elle UK<\/i> ?",
+            "text": "Ai là người mẫu Việt đầu tiên xuất hiện trên <i>Elle UK<\/i> ?",
             "pic": false,
             "choices": [
                 {
@@ -23062,7 +23062,7 @@
         {
             "x": false,
             "id": 31847,
-            "text": "Có khoảng bao nhiêu máu trong cơ thể con người?",
+            "text": "Thể tích máu trong cơ thể con người là khoảng bao nhiêu?",
             "pic": false,
             "choices": [
                 {

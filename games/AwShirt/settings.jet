@@ -1,0 +1,90 @@
+{
+    "rows": 7,
+    "cols": 1,
+    "cellWidth": 682,
+    "cellHeight": 57,
+    "clip": "AwShirtSettingsWidget",
+    "items": [
+        {
+            "title": "Âm lượng",
+            "type": "Range",
+            "clip": "AwShirtSliderWidget",
+            "width": 1,
+            "source": "Volume",
+            "step": 0.1,
+            "description": "Làm cho âm lượng trò chơi TO hoặc NHỎ."
+        },
+        {
+            "title": "Chế độ toàn màn hình",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "FullScreen",
+            "description": "Chuyển đổi giữa chế độ cửa sổ và toàn màn hình."
+        },
+        {
+            "title": "Huấn luyện nhanh",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtQuickTraining",
+            "description": "Người chơi vẽ ba thay vì bốn, và thời gian viết ngắn hơn. Phù hợp cho livestream."
+        },
+        {
+            "title": "Khán giả",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtAudienceOn",
+            "description": "Khán giả BẬT có nghĩa là những người không phải là người chơi có thể tham gia và tác động đến trò chơi."
+        },
+        {
+            "title": "Khán giả gợi ý",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtAudienceSuggestions",
+            "description": "Trong lúc người chơi vẽ hoặc viết, khán giả có thể nhập gợi ý để hiển thị trên màn hình."
+        },
+        {
+            "title": "Bộ hẹn giờ lâu hơn",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtExtendedTimers",
+            "description": "Bật hẹn giờ lâu hơn. Khuyến nghị cho livestream."
+        },
+        {
+            "title": "Yêu cầu Twitch",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtRequireTwitch",
+            "description": "Yêu cầu người chơi phải đăng nhập vào Twitch để tham gia trò chơi. Khuyến nghị cho livestream."
+        },
+        {
+            "title": "Kiểm duyệt thủ công",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtCensorable",
+            "description": "Cho phép VIP (người chơi vào đầu tiên) kiểm duyệt câu trả lời của người chơi."
+        },
+        {
+            "title": "Bắt đầu trò chơi bằng điều khiển",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtGamepadStart",
+            "description": "Trò chơi phải được bắt đầu bằng điều khiển, không phải từ thiết bị của người chơi."
+        },
+        {
+            "title": "Cho phép che mã phòng",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtHideRoomCode",
+            "description": "Cho phép mã phòng ẩn đi ngăn chặn người chơi tham gia sớm. Chỉ khuyến nghị cho livestream."
+        }
+    ]
+}
